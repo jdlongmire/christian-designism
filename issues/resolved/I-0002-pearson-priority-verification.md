@@ -1,8 +1,23 @@
 # I-0002 – Pearson priority claim requires verification
 
 **Opened:** 2026-08-02
-**Severity:** Medium. Determines whether P-001 is a prediction or an accommodation.
-**Blocks:** [P-001](../../registry/PREDICTIONS.md#p-001--pre-loaded-deep-water-budget-in-the-mantle-transition-zone)
+**Resolved:** 2026-08-02, at charter v1.1
+**Severity:** Medium. Determined whether P-001 was a prediction or an accommodation.
+**Blocked:** [P-001](../../registry/PREDICTIONS.md#p-001--pre-loaded-deep-water-budget-in-the-mantle-transition-zone)
+
+## Resolution
+
+Resolved by the author in charter v1.1, in the stronger of the two available directions.
+
+Rather than defending the priority claim, §7 was restated to distinguish **storage capacity** from **realized hydration**. Capacity to roughly 2.5 wt% in wadsleyite and ringwoodite was already established by theory and high-pressure experiment before 2014, with geophysical probes returning conflicting indications as to whether the transition zone is in fact hydrous. The Pearson inclusion resolved that question locally. The programme's expectation is therefore stated as concerning realized hydration, and the revision adds explicitly: "Any assertion of predictive priority requires verification of the dating of pre-2014 sources and is not made here."
+
+Charter v1.1 also adds §8.5, which concedes the general form of the objection: findings absorbed by refining an auxiliary are normal science, and the ringwoodite case is conceded specifically.
+
+The consequence for the register is that P-001 will register as `KNOWN` under the novelty field and cannot serve [AD-002](../../registry/ADVANCEMENT.md#ad-002--corroboration-of-a-prediction-whose-content-was-unavailable-at-registration). That cost the programme its only claimed corroboration. Paying it rather than defending the claim is the outcome this issue was opened to force.
+
+---
+
+## Original problem statement
 
 ## Problem
 

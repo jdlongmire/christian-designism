@@ -1,57 +1,79 @@
 # The Demarcation Problem
 
-**The programme's principal outstanding task.** Tracked as falsifier [F-002](../../registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion), currently `UNMET`.
+**The programme's principal outstanding task.** Tracked as falsifier [F-002](../../registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion) (`UNMET`) and advancement condition [AD-001](../../registry/ADVANCEMENT.md#ad-001--demarcation-criterion-applied-in-advance-across-three-specimen-classes) (`PARTIAL`).
+
+**Status changed at charter v1.1.** A candidate criterion now exists. This page assesses it.
 
 ## The problem
 
 Functional maturity distinguishes features of a system that are **constitutive of deployment** from features that **record post-deployment process**. Growth rings on a tree deployed on Day 3 are constitutive. Rings on a tree that grew afterward are chronological.
 
-The distinction is principled. It tracks fiat boundaries the framework already treats as discrete, so it is not an ad hoc partition invented to absorb anomalies.
+What was missing was an **operational criterion**: a test that, applied to a specimen in hand, yields a determinate reading *before the answer is known from other sources*.
 
-What is missing is an **operational criterion**: a test that, applied to a specimen in hand, yields a determinate reading of constitutive versus chronological *before the answer is known from other sources*.
+## The candidate: functional necessity
 
-## Why this is load-bearing rather than a loose end
+Charter §7, v1.1, offered as provisional rather than settled.
 
-Three consequences follow from the gap, and all three are severe.
+The framing move is important and is easy to miss. The criterion does not claim the constitutive/chronological distinction is itself specimen-intrinsic, since the categories are indexed to fiat boundaries known from revelation rather than read off the object. What it claims is that **functional necessity** is specimen-intrinsic and can stand proxy:
 
-**It caps predictive content.** Absent the criterion, the framework cannot say in advance which features of any specific system will read as created state and which as elapsed history. Charter §7 concedes this directly.
+> A feature is constitutive if the system could not discharge its function at the moment of deployment without it.
 
-**It undercuts the programme's answer to its strongest objection.** Charter §8.3 replies to the concordance objection by arguing that integrated specification produces coherent components, so cross-system isotopic concordance is entailed by functional maturity rather than accommodated by it. That reply is weaker than it first appears. Integrated specification straightforwardly supports *functional* coherence. Deriving concordance of *apparent ages* across systems with different half-lives and different geochemical behaviour is a much more specific claim, and it requires precisely this criterion. Until the criterion exists, the reply is a consistent interpretation rather than an earned prediction, and the programme's own standard from §7 convicts it.
+That is a real criterion. It is stateable, applicable, and it excludes things.
 
-**It is the condition on which scientific standing turns.** Charter §9 makes continued failure fatal on a longer timescale. Not immediately, because this is a research task rather than a discovered obstacle. But the clock is running and the charter says so.
+## Assessment against the conditions a solution must meet
 
-## What a solution must do
+These five conditions were fixed before the candidate arrived, which is the only way this assessment means anything.
 
-A candidate criterion must satisfy all of the following. Weaker proposals should be recorded here anyway, with the condition they fail.
+| Condition | Verdict |
+|---|---|
+| **1. Operational** – applicable to a specimen, not only statable in principle | **Passes.** Requires knowing the system's function and whether the feature is load-bearing for it. Both are ordinarily determinable. |
+| **2. Prior** – yields its reading before the answer is known from the framework or other evidence | **Passes in form.** Charter §7 adds the governing rule that the criterion must be stated for a specimen class before the assignment is made. Whether it passes in practice is a matter of conduct over time. |
+| **3. Determinate** – returns a definite reading or an explicit undetermined | **Passes with a caveat.** Clean on craters and molecular clocks. Charter §7 honestly flags stellar main-sequence position and sediment fabrics as requiring case-by-case treatment, which is an explicit undetermined rather than an evasion. |
+| **4. Risky** – capable of returning a reading the programme would find unwelcome | **Passes, and this is the strongest result.** It has already returned two unwelcome verdicts, and possibly a third that runs against the auxiliary it was introduced to support. |
+| **5. General** – applies across geochronology, paleontology and astronomy, or states a principled restriction | **Partial.** Applied to geochronology and astronomy. Paleontology and sediment fabrics are named as pending. |
 
-1. **Operational.** Applicable to a specimen, not only statable in principle.
-2. **Prior.** Yields its reading before the constitutive-versus-chronological answer is known from framework commitments or from other evidence. A criterion that reads the answer off the framework is circular and adds nothing.
-3. **Determinate.** Returns a definite reading, or an explicit "undetermined," rather than admitting any reading the interpreter prefers.
-4. **Risky.** Capable of returning a reading the programme would find unwelcome. A criterion that cannot embarrass the framework is an accommodation wearing a criterion's clothes.
-5. **General.** Applies across at least geochronology, paleontology and astronomy, or else states its restricted domain and why the restriction is principled rather than convenient.
+The candidate is the most serious contribution to this problem the programme has, and condition 4 is where it earns that standing. A criterion that excludes nothing is an overlay wearing a rule's clothing, and charter §7 says so in those words.
 
-Condition 4 is the one most likely to be quietly failed, and it should be tested first on any candidate.
+## What the criterion excludes
 
-## Directions worth examining
+| Specimen class | Verdict | Consequence |
+|---|---|---|
+| Radiogenic parent nuclides (U-238, Th-232, K-40) | Constitutive | The heat engine is the function and these are its fuel. This is the founding case. |
+| Radiogenic daughter products (Pb-206, Pb-207, Ar-40, Sr-87, Nd-143) | **Contested** | Charter §6.2 and §7 claim they follow the parents. Applied strictly, they appear to fail: they are inert with respect to every function §6.2 names. See [I-0006](../../issues/open/I-0006-daughter-products-fail-functional-necessity.md). |
+| Crater populations on planetary surfaces | Elapsed history | Nothing about a functioning body requires an impact record at deployment. |
+| Molecular clock divergence | Elapsed history | A deployed organism requires a working genome and requires no accumulated substitutions. |
+| Stellar main-sequence position | Pending | Named as requiring case-by-case treatment. |
+| Sediment fabrics | Pending | Same. |
 
-Not endorsements. Starting points, each with the obvious objection attached.
+## Live difficulties with the candidate
 
-**Process-signature analysis.** Look for signatures that only an actual process produces and that a deployed state would have no functional reason to include. Wear patterns, damage accumulation, contamination trails, discordant micro-histories.
-*Objection:* requires an independent account of what a deployed state would and would not include, which risks reintroducing the very question at issue.
+Recorded here because a criterion whose problems are tracked is worth more than one whose problems are waiting to be found by a critic.
 
-**Functional-necessity filtering.** A feature is constitutive if the system demonstrably requires it to function, and chronological otherwise. This is the argument already used for the radiogenic nuclide inventory, generalized.
-*Objection:* the filter is only as sharp as our knowledge of what the system requires, and the argument-from-necessity direction is the same one used to justify the inventory, so generalizing it may be assuming what it is meant to show.
+**1. The founding case may fail.** This is the serious one. Charter §7 reads the criterion as passing "long-lived parent nuclides with their attendant daughter products," but the attendance clause is not licensed by the criterion as stated. Parents are functionally necessary; daughters are not. If daughters read as elapsed history, the daughter-to-parent ratio is an ordinary clock and A-001 loses its central claim, and the §8.3 concordance reply loses its basis with it. Full treatment at [I-0006](../../issues/open/I-0006-daughter-products-fail-functional-necessity.md).
 
-**Boundary-crossing discordance.** If the fiat boundary is discrete, features spanning it should exhibit a characteristic discontinuity that purely post-deployment features do not.
-*Objection:* requires knowing where the boundary falls in the record, which is close to the original problem.
+Charter §7 committed in advance that an unwelcome verdict stands. This is the first test of that commitment, and it arrived in the same section that made it.
 
-**Restricted-scope retreat.** Abandon generality. Supply the criterion only for domains where deployment requirements are independently constrained, and record the rest as undetermined.
-*Objection:* honest, and it substantially reduces the programme's scope. It may nonetheless be the right move, and it satisfies condition 5's escape clause if the restriction can be defended as principled.
+**2. Downstream commitments from the exclusions are not yet costed.** Assigning crater populations to elapsed history places the planetary bombardment record inside the young timeframe, which is a substantive commitment about impact flux that the programme now owes an account of. It is a coherent position and it is not free.
+
+**3. The molecular clock exclusion is under-specified.** "A deployed organism requires no accumulated substitutions" is right for substitutions accumulated *within* a lineage. It does not straightforwardly cover sequence differences *between* lineages, which under separate creation would be initial state rather than accumulated change. The criterion needs a rule distinguishing within-lineage accumulation from between-lineage difference before its verdict on this class is determinate.
+
+**4. Function is doing heavy lifting and is not always determinate.** The criterion asks what a system requires to discharge its function. For a planet and an organism this is tractable. For a sediment fabric or a stellar interior, "the function" is less obvious, which may be why charter §7 correctly leaves both pending rather than forcing them.
+
+## What would close this out
+
+[AD-001](../../registry/ADVANCEMENT.md#ad-001--demarcation-criterion-applied-in-advance-across-three-specimen-classes) states the threshold: the criterion applied in advance to at least three specimen classes, returning at least one unwelcome verdict, and holding without reassignment.
+
+Two clean applications exist. The third is contested, and counting a contested application to reach a threshold is what the register exists to prevent. So the order of work is:
+
+1. Adjudicate I-0006, whichever way it goes
+2. Apply the criterion to stellar main-sequence position and to sediment fabrics, publishing the assignment before checking what the framework would prefer
+3. Supply the within-lineage versus between-lineage rule for the molecular clock case
+4. Cost the bombardment-flux commitment that the crater exclusion incurs
 
 ## Status of the literature
 
-No adequate treatment exists, in either the creationist or the mainstream philosophy-of-science literature. This is stated as a claim about the searches conducted rather than as a proven negative, and a pointer to any serious prior treatment is the single most useful contribution an outside reader could make to this programme.
+No adequate prior treatment has been located, in either the creationist or the mainstream philosophy-of-science literature. This remains a claim about searches conducted rather than a proven negative, and a pointer to any serious prior treatment is still the single most useful contribution an outside reader could make.
 
 ## Contributions
 
-Candidate criteria, and arguments that no such criterion is possible in principle, are both welcome. The second would be the stronger result, and would trigger F-002 rather than merely leaving it unmet. It is the argument a serious critic of the programme should be making, and the programme has committed in advance to recording it if it arrives.
+Candidate criteria, refinements to this one, and arguments that no such criterion is possible in principle are all welcome. The last would be the stronger result and would trigger F-002 rather than leaving it unmet. It is the argument a serious critic should be making, and the programme has committed in advance to recording it.

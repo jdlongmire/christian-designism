@@ -15,12 +15,15 @@ These may be mirrored to GitHub issues for external contributors. The files here
 
 | ID | Title | Severity | Blocks |
 |---|---|---|---|
+| [I-0006](open/I-0006-daughter-products-fail-functional-necessity.md) | Daughter products may fail the functional-necessity criterion | High | AD-001; liability on A-001 |
 | [I-0001](open/I-0001-gfh-falsifier-list.md) | GFH falsifier list blocks P-002 registration | High | P-002, F-003 |
-| [I-0002](open/I-0002-pearson-priority-verification.md) | Pearson priority claim requires verification | Medium | P-001 |
 | [I-0003](open/I-0003-cosmology-prereg-location.md) | Cosmological pre-registration not located | High | P-003 |
+| [I-0007](open/I-0007-v10-additions-not-carried-forward.md) | Three v1.0 additions not carried forward into v1.1 | Medium | Author decision |
 | [I-0004](open/I-0004-helium-retention-tension.md) | Hydrotectonics creates tension with helium retention | Medium | – |
 | [I-0005](open/I-0005-geoneutrino-figure-verification.md) | Verify geoneutrino figures against the primary | Low | – |
 
 ## Resolved
 
-None yet.
+| ID | Title | Resolved | How |
+|---|---|---|---|
+| [I-0002](resolved/I-0002-pearson-priority-verification.md) | Pearson priority claim requires verification | v1.1 | Claim restated at the strength the evidence supports; predictive priority withdrawn rather than defended |

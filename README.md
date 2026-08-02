@@ -24,21 +24,23 @@ The registers are designed to be able to embarrass the programme, and at creatio
 
 | Register | Purpose |
 |---|---|
-| [`registry/PREDICTIONS.md`](registry/PREDICTIONS.md) | Every claim the programme commits to in advance, with falsifier and resolution date. Append-only once registered. |
+| [`registry/PREDICTIONS.md`](registry/PREDICTIONS.md) | Every claim the programme commits to in advance, with falsifier, resolution date, and novelty marked **at entry**. Append-only once registered. |
 | [`registry/AUXILIARIES.md`](registry/AUXILIARIES.md) | The Lakatosian protective belt made explicit, including auxiliaries the programme has **declined**. |
 | [`registry/FALSIFIERS.md`](registry/FALSIFIERS.md) | Charter §9 conditions of abandonment, with live status. |
+| [`registry/ADVANCEMENT.md`](registry/ADVANCEMENT.md) | Charter §9 conditions of advancement. What would raise the programme's standing, fixed in advance. |
 | [`programme/hard-core.md`](programme/hard-core.md) | The numbered commitments held immune by methodological decision, and an explicit list of what is *not* in the hard core. |
 
 ---
 
-## Honest standing at creation
+## Honest standing (charter v1.1)
 
 Recorded up front rather than discovered by a critic.
 
 - **Five predictions registered. Zero at `REGISTERED` status.** All five are `DRAFT`, missing a falsifier, a resolution date, or both. Charter §9 conditions abandonment on registered-prediction failure, which is currently unenforceable.
-- **Falsifier [F-002](registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion) is `UNMET`.** The programme cannot yet distinguish created-mature initial state from post-deployment process residue by any operational test. This caps predictive content across every line and undercuts the programme's reply to its strongest objection. It is the principal outstanding task: [`programme/demarcation/`](programme/demarcation/).
+- **Falsifier [F-002](registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion) is `UNMET`, but moved for the first time.** v1.1 supplies a candidate criterion, **functional necessity**, offered as provisional. It excludes real things: crater populations and molecular clock divergence are both assigned to elapsed history. Assessed at [`programme/demarcation/`](programme/demarcation/).
+- **The criterion may rule against the auxiliary it was built to support.** Applied strictly, radiogenic *parent* nuclides pass functional necessity and radiogenic *daughter* products do not, which would make the daughter-to-parent ratio an ordinary clock. Charter §7 commits in advance that an unwelcome verdict stands. This is the first test of that commitment. [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md).
 - **Two traceability gaps.** The hydrotectonics falsifier list ([I-0001](issues/open/I-0001-gfh-falsifier-list.md)) and the cosmological pre-registration ([I-0003](issues/open/I-0003-cosmology-prereg-location.md)) are both cited by the charter as existing instruments. Neither has been located or produced.
-- **One claimed corroboration, unverified.** The Pearson ringwoodite priority claim is flagged in the charter itself and tracked at [I-0002](issues/open/I-0002-pearson-priority-verification.md). Whether it is prediction or accommodation is undetermined.
+- **The one claimed corroboration was withdrawn by the author.** v1.1 restates the ringwoodite case at the strength the evidence supports and explicitly declines predictive priority ([I-0002](issues/resolved/I-0002-pearson-priority-verification.md), resolved). P-001 will register as `KNOWN` and cannot count toward advancement.
 - **One self-generated difficulty.** The adopted geological model creates tension with helium retention in zircons ([I-0004](issues/open/I-0004-helium-retention-tension.md)).
 
 This is the profile of a young programme with a mixed record, which is what the charter claims for it.
@@ -75,10 +77,11 @@ Full grounds: [A-002](registry/AUXILIARIES.md#a-002--accelerated-nuclear-decay).
 
 The most useful contributions, in order:
 
-1. **An operational demarcation criterion**, or an argument that none is possible in principle given the framework's commitments. The second would be the stronger result and would trigger F-002. It is the argument a serious critic should be making, and the programme has committed in advance to recording it.
-2. **A pointer to prior serious treatment of the demarcation problem** in either the creationist or mainstream philosophy-of-science literature. The claim that none exists is a claim about searches conducted, not a proven negative.
-3. **Falsifier statements** for any `DRAFT` prediction, in terms a hostile reader could apply.
-4. **Adjudication of the interval-invariance objection** to the anisotropic synchrony convention ([A-005](registry/AUXILIARIES.md#a-005--anisotropic-synchrony-convention)).
+1. **Adjudication of [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md)** – whether radiogenic daughter products can be derived as functionally necessary at deployment without appealing to verisimilitude. A demonstration either way is the highest-value contribution available, and the negative is as welcome as the positive.
+2. **Refinement of the demarcation criterion**, or an argument that no such criterion is possible in principle given the framework's commitments. The second would be the stronger result and would trigger F-002. It is the argument a serious critic should be making, and the programme has committed in advance to recording it.
+3. **A pointer to prior serious treatment of the demarcation problem** in either the creationist or mainstream philosophy-of-science literature. The claim that none exists is a claim about searches conducted, not a proven negative.
+4. **Falsifier statements** for any `DRAFT` prediction, in terms a hostile reader could apply.
+5. **Adjudication of the interval-invariance objection** to the anisotropic synchrony convention ([A-005](registry/AUXILIARIES.md#a-005--anisotropic-synchrony-convention)).
 
 Open an issue, or add a file under `issues/open/` following the existing convention.
 

@@ -31,15 +31,19 @@ Version 1.0. Unverified entries are not errors; they are unaudited, and the dist
 | Lakatos (1970) | `MEDIUM` | Hard core / protective belt, progressive vs degenerating. |
 | Van Til (1955) | `MEDIUM` | Transcendental argument as used in §5. |
 | Austin et al. (1994) | `MEDIUM` | Catastrophic plate tectonics as characterized in §6.1. |
+| Bosch et al. (1996) | `MEDIUM` | Added at v1.1. Bound-state beta decay of fully ionized Re-187, 32.9 yr against 42 Gyr neutral. The figures match the standard citation of this result; confirm the 32.9 yr value and its uncertainty against the primary, and confirm that §3's scope limitation (electron availability, no crustal analogue, alpha decay untouched) reflects the paper's own framing rather than a downstream gloss. |
 | Vardiman, Snelling and Chaffin (2005) | `MEDIUM` | RATE findings and the acknowledged thermal problem. Volumetric cooling attribution should be checked to the specific chapter. |
 | Sanford (2005) | `MEDIUM` | Mutational load argument. |
 | Lisle (2010) | `MEDIUM` | ASC proposal. The internal criticism referenced in §7 needs a citation of its own. |
 | Gando et al. (2011) | `UNCERTAIN` | See [I-0005](../issues/open/I-0005-geoneutrino-figure-verification.md). Three specific concerns: the 20.0 TW precision, misattribution of the 44.2 TW total flux figure, and "known to add" overstating the basis for the K-40 estimate. |
-| Pearson et al. (2014) | `MEDIUM` on the finding, `UNCERTAIN` on the priority claim | See [I-0002](../issues/open/I-0002-pearson-priority-verification.md). The result is not in question; what pre-2014 expectation was, and when this programme committed, are. |
+| Pearson et al. (2014) | `MEDIUM` | Priority concern retired at v1.1: the charter now distinguishes storage capacity (already established pre-2014) from realized hydration, and declines predictive priority outright. See [I-0002](../issues/resolved/I-0002-pearson-priority-verification.md), resolved. The pre-2014 capacity figure of roughly 2.5 wt% now appears in the charter text and should itself be sourced. |
 | Longmire (2025) | `HIGH` | Author's own work, repository of record cited. |
 
 ## Outstanding
 
-Two references carry `UNCERTAIN` labels and both have tracked issues. Neither has been silently corrected in the charter text, because speculative amendment is worse than a tracked check.
+One reference carries an `UNCERTAIN` label (Gando 2011) with a tracked issue. It has not been silently corrected in the charter text, because speculative amendment is worse than a tracked check.
 
-One citation is missing entirely: the internal criticism of Lisle's synchrony convention regarding spacetime interval invariance is referenced in charter §7 and in [A-005](../registry/AUXILIARIES.md#a-005--anisotropic-synchrony-convention) without a source. It needs one before A-005 can be adjudicated.
+Two claims in the charter are made without any citation and need one:
+
+1. **The internal criticism of Lisle's synchrony convention** regarding spacetime interval invariance, referenced at §7 and in [A-005](../registry/AUXILIARIES.md#a-005--anisotropic-synchrony-convention). Needed before A-005 can be adjudicated.
+2. **The pre-2014 mantle water storage capacity figure** of roughly 2.5 wt% in wadsleyite and ringwoodite, added at v1.1 §7. This figure now carries the weight that the withdrawn priority claim used to, since it is what establishes that capacity was already known and the programme's expectation concerned realized hydration instead. An uncited figure in that position is the weak point of an otherwise strengthened passage.

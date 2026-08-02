@@ -7,7 +7,8 @@ The enforcement instrument for [`charter/consilience-is-not-consensus.md`](../ch
 1. **Append, never rewrite.** An entry's `Claim` and `Falsifier` fields are frozen once the status reaches `REGISTERED`. Corrections are made by superseding the entry, with the superseded entry retained and marked.
 2. **Falsifier before registration.** An entry cannot reach `REGISTERED` without a falsifier stated in terms that a hostile reader could apply.
 3. **Resolution date before registration.** Open-ended predictions are unadjudicable and count as accommodation under the charter's own criterion.
-4. **Status is evidence-driven.** `CORROBORATED` requires a cited observation. `FAILED` is recorded with the same care as `CORROBORATED`, and the charter is amended accordingly.
+4. **Novelty marked at entry, never at adjudication.** Charter §9 v1.1 requires this explicitly, and it is the most important procedural rule in the register set: marking novelty after a favourable result is how accommodation launders itself into prediction. Every entry reaching `REGISTERED` carries a **Novelty at registration** field valued `NOVEL` (content not available to the framework at registration), `KNOWN` (data already in hand), or `PARTIAL` (stating which part). An entry lacking the field cannot later be counted toward [AD-002](ADVANCEMENT.md#ad-002--corroboration-of-a-prediction-whose-content-was-unavailable-at-registration).
+5. **Status is evidence-driven.** `CORROBORATED` requires a cited observation. `FAILED` is recorded with the same care as `CORROBORATED`, and the charter is amended accordingly.
 
 ## Status vocabulary
 
@@ -27,12 +28,13 @@ The enforcement instrument for [`charter/consilience-is-not-consensus.md`](../ch
 |---|---|
 | **Line** | Geochronology / functional maturity |
 | **Status** | `DRAFT` |
-| **Claim** | Functional maturity anticipates geological architecture delivered stocked rather than accumulated, including a substantial pre-loaded deep-water budget in the mantle transition zone. |
-| **Evidence cited in charter** | Pearson et al. (2014), first terrestrial ringwoodite as a diamond inclusion from Juína, indicating a locally hydrous transition zone at approximately 1 wt% water. |
+| **Claim** | Functional maturity anticipates geological architecture delivered stocked rather than accumulated, including a substantial pre-loaded deep-water budget in the mantle transition zone. The expectation concerns **realized hydration**, not storage capacity; capacity to roughly 2.5 wt% in wadsleyite and ringwoodite was already established by theory and high-pressure experiment. |
+| **Evidence cited in charter** | Pearson et al. (2014), first terrestrial ringwoodite as a diamond inclusion from Juína, resolving the question locally toward hydration at approximately 1 wt%. |
+| **Novelty at registration** | `KNOWN`. Charter v1.1 explicitly declines any assertion of predictive priority. This entry cannot serve [AD-002](ADVANCEMENT.md#ad-002--corroboration-of-a-prediction-whose-content-was-unavailable-at-registration). |
 | **Falsifier** | *Not yet stated in registrable form.* Candidate: systematic accumulation of transition-zone hydration measurements converging on values consistent with progressive subduction-driven hydration rather than an initial endowment, with no residual requiring a pre-loaded budget. |
 | **Resolution date** | Not set. |
-| **Blocking issue** | [I-0002](../issues/open/I-0002-pearson-priority-verification.md). The priority claim requires verification that pre-2014 mainstream expectation was in fact considerably lower. Until that check is done, this is a corroboration claimed rather than demonstrated. |
-| **Why it is not yet `REGISTERED`** | A prediction registered after the confirming observation is accommodation, not prediction, unless the prior expectation is independently documented. The priority check is what converts this entry from the former into the latter. |
+| **Prior blocking issue** | [I-0002](../issues/resolved/I-0002-pearson-priority-verification.md), **resolved** at charter v1.1. The author restated the claim at the strength the evidence supports and withdrew the priority assertion rather than defending it. The entry is no longer blocked on that question. |
+| **Why it is not yet `REGISTERED`** | Falsifier and resolution date outstanding. The claim itself is now correctly scoped, so registration is a matter of finishing the specification rather than resolving a dispute. |
 
 ---
 

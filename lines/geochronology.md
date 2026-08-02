@@ -26,6 +26,6 @@ Declining accelerated decay costs this line nothing, because functional maturity
 
 ## Next actions
 
-1. Complete the Pearson priority verification ([I-0002](../issues/open/I-0002-pearson-priority-verification.md)) so P-001 can be registered as prediction rather than accommodation
+1. Complete the Pearson priority verification ([I-0002](../issues/resolved/I-0002-pearson-priority-verification.md)) so P-001 can be registered as prediction rather than accommodation
 2. Verify the Gando et al. (2011) figures against the primary ([I-0005](../issues/open/I-0005-geoneutrino-figure-verification.md))
 3. Advance the demarcation criterion

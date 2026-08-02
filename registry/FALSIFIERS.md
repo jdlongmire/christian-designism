@@ -37,11 +37,13 @@ If no principled and operational test distinguishes created-mature initial state
 
 **Why `UNMET` rather than `OPEN`.** The charter is explicit that this is "the condition on which the framework's scientific standing turns, and it is the one currently unmet." The programme is failing this condition now. It is not immediately fatal because the criterion is a research task rather than a discovered obstacle, but the clock is running and the charter admits it.
 
-**What would retire it.** An operational test, applicable to a specimen in hand, that yields a determinate reading of created-state versus elapsed-process before the answer is known from other sources. Work area: [`programme/demarcation/`](../programme/demarcation/).
+**Movement at v1.1.** A candidate criterion now exists: **functional necessity**, offered as provisional at charter §7. A feature is constitutive if the system could not discharge its function at the moment of deployment without it. The candidate is real progress and is assessed against its own requirements in [`programme/demarcation/`](../programme/demarcation/). It does not retire this condition, for two reasons. It is offered as provisional by the author rather than as settled, and its application to the programme's founding case is contested at [I-0006](../issues/open/I-0006-daughter-products-fail-functional-necessity.md).
+
+**What would retire it.** An operational test, applicable to a specimen in hand, that yields a determinate reading of created-state versus elapsed-process before the answer is known from other sources, and that survives application to cases where the verdict is unwelcome. The threshold is stated as [AD-001](ADVANCEMENT.md#ad-001--demarcation-criterion-applied-in-advance-across-three-specimen-classes).
 
 **What would trigger it.** Sustained failure to produce such a test, or a demonstration that no such test is possible in principle given the framework's commitments. The second would be the stronger result and is the argument a serious critic should be making.
 
-**Reach.** This condition is not confined to geochronology. Charter §8.3 now records that the functional-maturity reply to the concordance objection depends on the same missing criterion. F-002 is therefore load-bearing for the programme's answer to its strongest objection, not only for its geochronological position.
+**Reach.** This condition is not confined to geochronology. The functional-maturity reply to the concordance objection at §8.3 depends on the same criterion, and I-0006 raises the possibility that the criterion contradicts it. F-002 is therefore load-bearing for the programme's answer to its strongest objection, not only for its geochronological position.
 
 ---
 
@@ -81,4 +83,8 @@ A demonstration that the biblical text does not in fact assert the historical pr
 
 Four conditions. One currently `UNMET` (F-002). One currently unenforceable through no fault of its statement (F-003).
 
-The charter's claim that specifying these conditions is "not a concession made under pressure" is only true if the register is maintained when a condition starts going badly. F-002 is going badly now, and it is recorded as such.
+The charter's claim that specifying these conditions is "not a concession made under pressure" is only true if the register is maintained when a condition starts going badly. F-002 is going badly now, and it is recorded as such, though charter v1.1 moves it in the right direction for the first time.
+
+## Companion register
+
+Charter v1.1 adds conditions of **advancement** alongside these conditions of abandonment, on the ground that a programme stating only what would sink it can claim progress on any favourable result after the fact. They are carried at [`ADVANCEMENT.md`](ADVANCEMENT.md).
