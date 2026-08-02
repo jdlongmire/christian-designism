@@ -43,7 +43,7 @@ If no principled and operational test distinguishes created-mature initial state
 
 **What would trigger it.** Sustained failure to produce such a test, or a demonstration that no such test is possible in principle given the framework's commitments. The second would be the stronger result and is the argument a serious critic should be making.
 
-**Reach.** This condition is not confined to geochronology. The functional-maturity reply to the concordance objection at §8.3 depends on the same criterion, and I-0006 raises the possibility that the criterion contradicts it. F-002 is therefore load-bearing for the programme's answer to its strongest objection, not only for its geochronological position.
+**Reach.** This condition is not confined to geochronology. The functional-maturity reply to the concordance objection depends on the same criterion, and I-0006 raises the possibility that the criterion contradicts it. Charter §8.3 v1.2 states both dependencies in the paper itself. F-002 is therefore load-bearing for the programme's answer to its strongest objection, not only for its geochronological position.
 
 ---
 

@@ -32,13 +32,13 @@ The registers are designed to be able to embarrass the programme, and at creatio
 
 ---
 
-## Honest standing (charter v1.1)
+## Honest standing (charter v1.2)
 
 Recorded up front rather than discovered by a critic.
 
 - **Five predictions registered. Zero at `REGISTERED` status.** All five are `DRAFT`, missing a falsifier, a resolution date, or both. Charter §9 conditions abandonment on registered-prediction failure, which is currently unenforceable.
 - **Falsifier [F-002](registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion) is `UNMET`, but moved for the first time.** v1.1 supplies a candidate criterion, **functional necessity**, offered as provisional. It excludes real things: crater populations and molecular clock divergence are both assigned to elapsed history. Assessed at [`programme/demarcation/`](programme/demarcation/).
-- **The criterion may rule against the auxiliary it was built to support.** Applied strictly, radiogenic *parent* nuclides pass functional necessity and radiogenic *daughter* products do not, which would make the daughter-to-parent ratio an ordinary clock. Charter §7 commits in advance that an unwelcome verdict stands. This is the first test of that commitment. [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md).
+- **The criterion may rule against the auxiliary it was built to support.** Applied strictly, radiogenic *parent* nuclides pass functional necessity and radiogenic *daughter* products do not, which would make the daughter-to-parent ratio an ordinary clock and would take the §8.3 concordance reply with it. Charter §7 commits in advance that an unwelcome verdict stands. This is the first test of that commitment, it is stated in the paper at §8.3 as of v1.2, and it is open in both directions. [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md) is the highest-value open question in the programme.
 - **Two traceability gaps.** The hydrotectonics falsifier list ([I-0001](issues/open/I-0001-gfh-falsifier-list.md)) and the cosmological pre-registration ([I-0003](issues/open/I-0003-cosmology-prereg-location.md)) are both cited by the charter as existing instruments. Neither has been located or produced.
 - **The one claimed corroboration was withdrawn by the author.** v1.1 restates the ringwoodite case at the strength the evidence supports and explicitly declines predictive priority ([I-0002](issues/resolved/I-0002-pearson-priority-verification.md), resolved). P-001 will register as `KNOWN` and cannot count toward advancement.
 - **One self-generated difficulty.** The adopted geological model creates tension with helium retention in zircons ([I-0004](issues/open/I-0004-helium-retention-tension.md)).
@@ -67,7 +67,7 @@ The programme's principal evidence that it applies the Lakatosian criterion to i
 
 **Accelerated nuclear decay (RATE) is declined as degenerating.** Compressing the decay inventory into creation week and a Flood year leaves the released energy unchanged and raises the power. The decisive constraint sits at the planetary radiative boundary rather than anywhere inside the Earth: shedding 10<sup>29</sup> to 10<sup>30</sup> J within a year requires the surface to radiate continuously at roughly 3,200 to 5,750 K, against a silicate vaporization point near 3,000 K. This is a disposal problem, not a transport problem, which is why the volumetric cooling mechanism proposed in response had to be exotic. That mechanism is motivated by nothing beyond the difficulty it removes, and it overshoots, since cooling sufficient to preserve uranium-rich zircons would freeze the Flood waters.
 
-Declining it costs the programme nothing, because functional maturity treats isotopic inventory as constitutive and incurs no obligation to compress elapsed decay at all.
+Declining it costs the programme nothing, because functional maturity treats isotopic inventory as constitutive and incurs no obligation to compress elapsed decay at all. That last clause is exactly what [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md) puts in question, which is why the issue matters beyond geochronology.
 
 Full grounds: [A-002](registry/AUXILIARIES.md#a-002--accelerated-nuclear-decay). Declining the auxiliary does not dismiss the observations; two live RATE-adjacent relationships are recorded in [`lines/geology.md`](lines/geology.md), one favourable and one not.
 

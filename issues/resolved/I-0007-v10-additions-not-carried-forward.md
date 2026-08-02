@@ -1,8 +1,29 @@
 # I-0007 – Three v1.0 additions not carried forward into v1.1
 
 **Opened:** 2026-08-02
-**Severity:** Medium for two of the three, low for the other. Author decision required.
+**Resolved:** 2026-08-02 at charter v1.2
+**Severity:** Medium for two of the three, low for the other.
 **Type:** Editorial, not substantive disagreement.
+
+## Resolution
+
+All three restored by author direction at v1.2, and the third strengthened.
+
+| Item | Outcome |
+|---|---|
+| §6.1 hydraulic collapse and its relation to CPT | Restored, plus a closing sentence recording that the hydrotectonic thermal budget does not presently close, which keeps §6.1 consistent with §9's third advancement condition |
+| §7 radiative-boundary constraint | Restored as written at v1.0 |
+| §8.3 concession on the concordance reply | Restored and strengthened. Now separates the derivation weakness from the newer difficulty that v1.1's candidate criterion may not license the step from parent inventory to daughter products, stated as open in both directions |
+
+Two supporting cross-references were restored with them: the §6.2 forward pointer to §8.3, extended to name the daughter-product question, and the §7 pointer back to §6.1 in the sentence faulting CPT's thermal budget.
+
+**Workflow rule adopted.** The second of the two options below is now standing practice: repository-side edits to the charter are confined to mechanical fixes, and everything substantive is routed through an issue for author decision. v1.2 is itself an instance of the rule working as intended, since the restorations were made on explicit direction rather than unilaterally.
+
+**Left untouched.** §7's statement of the demarcation criterion, including the "with their attendant daughter products" clause. Amending it is part of adjudicating [I-0006](../open/I-0006-daughter-products-fail-functional-necessity.md), not a reconciliation matter, and that issue remains open.
+
+---
+
+## Original problem statement
 
 ## What happened
 
@@ -40,7 +61,7 @@ The full grounds are retained in [A-002](../../registry/AUXILIARIES.md#a-002--ac
 
 The v1.0 concession recorded that the functional-maturity account of isotopic concordance is a consistent interpretation rather than an earned prediction, pending the demarcation criterion. v1.1 restores the unqualified form: "concordance is entailed by the framework rather than absorbed by it."
 
-Two developments in v1.1 cut against leaving it unqualified. The criterion now exists in candidate form, and applied to daughter products it appears to rule the other way ([I-0006](I-0006-daughter-products-fail-functional-necessity.md)) – so the reply at §8.3 is not merely ungrounded but may be contradicted by the programme's own new rule. And v1.1's new §8.5 concedes the symmetry principle that "the discriminating question in both directions is whether the adjustment predicted anything it was not built to explain," which applied to §8.3's first qualification gives the answer the concession stated.
+Two developments in v1.1 cut against leaving it unqualified. The criterion now exists in candidate form, and applied to daughter products it appears to rule the other way ([I-0006](../open/I-0006-daughter-products-fail-functional-necessity.md)) – so the reply at §8.3 is not merely ungrounded but may be contradicted by the programme's own new rule. And v1.1's new §8.5 concedes the symmetry principle that "the discriminating question in both directions is whether the adjustment predicted anything it was not built to explain," which applied to §8.3's first qualification gives the answer the concession stated.
 
 Leaving §8.3 unqualified while §8.5 concedes the symmetry and §7 introduces a criterion that may contradict it is the one place a careful critic gets a clean shot at the paper's internal consistency.
 
