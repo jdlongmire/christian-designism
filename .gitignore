@@ -1,0 +1,19 @@
+# Editor / OS
+.DS_Store
+*.swp
+*~
+
+# Build artifacts
+*.aux
+*.log
+*.out
+*.toc
+
+# Local agent state
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

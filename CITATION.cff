@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Consilience Is Not Consensus: Framework Commitments and the Coherence of a Biblical Chronology"
+message: "If you reference this work, please cite it as below."
+type: software
+authors:
+  - given-names: James
+    name-particle: D.
+    family-names: Longmire
+    orcid: "https://orcid.org/0009-0009-1383-7698"
+    email: jdlongmire@outlook.com
+repository-code: "https://github.com/jdlongmire/christian-designism"
+abstract: >-
+  Charter document of the Christian Designism research programme. Argues that
+  the claim that no scientifically coherent path leads to a young universe
+  conflates consensus with consilience in Whewell's sense, and that the
+  inference from absent consensus to absent coherent alternative is invalid.
+  Assesses the programme against Lakatosian criteria, adopts functional
+  maturity of origins as its geochronological position, declines accelerated
+  nuclear decay as a degenerating auxiliary, identifies the absence of a
+  demarcation criterion between created-mature initial state and process
+  residue as the programme's severest unresolved difficulty, and specifies
+  conditions of abandonment.
+keywords:
+  - consilience
+  - consensus
+  - historical science
+  - auxiliary assumptions
+  - underdetermination
+  - research programmes
+  - biblical chronology
+  - philosophy of science
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-08-02"
