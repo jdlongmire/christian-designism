@@ -45,6 +45,8 @@ If no principled and operational test distinguishes created-mature initial state
 
 **Reach.** This condition is not confined to geochronology. The functional-maturity reply to the concordance objection depends on the same criterion, and I-0006 raises the possibility that the criterion contradicts it. Charter §8.3 v1.2 states both dependencies in the paper itself. F-002 is therefore load-bearing for the programme's answer to its strongest objection, not only for its geochronological position.
 
+**Reach would widen further under [I-0008](../issues/open/I-0008-ordinal-cardinal-amendment.md).** The proposed ordinal commitment holds that the physical measure does not integrate across a fiat boundary. That relieves several downstream difficulties, including I-0006, and it does so by routing all of them here: if the position is that summation across a boundary is undefined, then locating boundaries and recognizing one from a specimen is not a supporting problem but the entire problem. Adopting I-0008 would make F-002 the single point on which the programme's scientific standing turns, which is close to what the charter already says and would make it exactly so.
+
 ---
 
 ## F-003 – Systematic failure of registered predictions

@@ -47,6 +47,14 @@ This is that case, arriving in the same section that stated the rule.
 
 The concordance reply at §8.3 depends on daughters being constitutive. If they are elapsed history, then concordance across systems with different half-lives is exactly what elapsed process predicts, functional maturity offers no separate account, and the objection at §8.3 recovers its status as a decisive discriminator. This is the same dependency flagged in the v1.0 §8.3 concession, now sharpened by the programme's own criterion rather than by an outside critic.
 
+## Third path, opened after this issue was written
+
+[I-0008](I-0008-ordinal-cardinal-amendment.md) proposes an ordinal commitment with cardinal agnosticism. On that framing this issue drops substantially in severity without being answered.
+
+If the programme commits to the order of the sequence and holds that the physical measure does not integrate across a fiat boundary, then daughter products reading as elapsed history is absorbable. The ratio measures a post-deployment interval; what it does not do is establish a duration summed across the boundary, and summation across the boundary is the disputed operation rather than a conclusion the ratio delivers.
+
+This is relief from severity, not resolution. The question migrates from geochronology into [F-002](../../registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion), where locating the boundary becomes the whole problem. It was always going to be decided there.
+
 ## What resolution requires
 
 A written adjudication, entered here, that either:
