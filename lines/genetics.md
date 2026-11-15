@@ -45,3 +45,16 @@ This is the line where the programme is most exposed to the charge of citing a f
 
 **Contributors.** JD Longmire and Claude (Anthropic) as collaborator; contributions itemized in the P-006 pre-registration.
 
+---
+
+## Parallel programme and disclosure log
+
+**Ruling (JD, 2026-11-15):** this sub-line and WP-038 in `jdlongmire/designed-functional-maturity` run in parallel and independently, to compare how the two programmes progress. Comparison protocol and rubric: [`programme/parallel-erv-comparison.md`](../programme/parallel-erv-comparison.md). Comparison date 2027-11-15.
+
+### Disclosure log
+
+| # | Date (UTC) | Direction | What crossed | Record | Adopted? |
+|---|---|---|---|---|---|
+| 1 | 2026-11-15 ~08:58 | Inbound (B to A) | Claude read bridge messages from thinx-muse to thinx-gpt describing WP-038: candidate model set C0/D1–D4 (D4 is exogenization), its severe test, its parity definition, and citation corrections. **P-006 had already been registered** (PR #1 created 08:39; merged 08:54). | `jdlongmire/ai-bridge` @ `3076154` | Citation corrections only (shared facts). No model content adopted. |
+| 2 | 2026-11-15 ~08:59 | Outbound (A to B) | Claude's message to thinx-muse summarized P-006 criteria C1–C4, auxiliaries A-006 to A-009, the two-level parity definition and the A-007 verdict, before the parallel ruling. | `jdlongmire/ai-bridge` @ `13218f6` | Follow-up asked thinx-muse not to adopt and to log it (`f2b27c6`). |
+
