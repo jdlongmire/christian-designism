@@ -4,6 +4,32 @@ Lakatos's protective belt, made explicit. Every auxiliary hypothesis the program
 
 The charter's claim to be applying Lakatosian criteria to itself rather than only to its rivals depends on this file being maintained honestly. An auxiliary quietly adopted under anomaly pressure and never logged is the exact failure mode the criterion exists to catch.
 
+## Symmetry of auxiliary latitude (adopted 2026-11-15)
+
+The programme claims the same latitude to introduce, hold and revise auxiliary hypotheses that the mainstream evolutionary research programme exercises, on the same terms. Adopted by JD; drafted by Claude.
+
+**S1. Established mechanisms are shared.** An auxiliary that invokes an independently established mechanism is available to this programme on the same evidential terms as to the mainstream: it must be shown to operate in the case at hand, never merely assumed.
+
+**S2. Framework-specific auxiliaries are graded alike.** Each programme may introduce auxiliaries drawn from its own background commitments: for the mainstream, deep time and rate uniformity; for this programme, designed process, fiat boundaries (HC-5; [I-0008](../issues/open/I-0008-ordinal-cardinal-amendment.md)) and corruption in a subjected creation. Both are graded by the same tests: Lakatos's ad hoc₁–₃ at the programme level, and McCullagh's criteria at the model level, with plausibility judged against each programme's own background ([I-0010](../issues/resolved/I-0010-erv-objective-abductive.md)).
+
+**S3. Anomaly tolerance is symmetric.** A programme may carry open anomalies, and auxiliaries `UNDER REVIEW`, without abandonment, as Lakatos allows of programmes generally. Jorritsma (2022) judges the mainstream ERV programme progressive while recording several weakly supported auxiliaries. This programme is entitled to the same treatment.
+
+**S4. Equal latitude means equal accounting.** Symmetry exempts nothing. Every auxiliary this programme uses is logged here and graded; the mainstream's are scored in the literature to the same standard.
+
+**S5. Symmetric in principle, not in history.** The mainstream's tolerance of anomalies is backed by a record of corroborated novel facts (Jorritsma 2022). This programme's tolerance rests on being young. Lakatos's allowance for young programmes is real, and it does not substitute for corroboration (registered at [AD-002](ADVANCEMENT.md#ad-002--corroboration-of-a-prediction-whose-content-was-unavailable-at-registration)).
+
+### The mainstream ERV toolkit and its availability here
+
+| Mainstream auxiliary | Independently established? | Availability (S1) | Where used here |
+|---|---|---|---|
+| Incomplete lineage sorting | Yes: polymorphic insertions observed in living populations (Hughes & Coffin 2004) | Available | A-006, Layer 3; the HERV-K-GC1 case |
+| LTR–LTR recombination; gene conversion | Yes: solo-LTR formation observed (Hughes & Coffin 2004) | Available | A-006 |
+| Lineage-specific deletion or loss | Yes | Available | A-006 |
+| Cross-species transmission | Yes: endogenization in progress (Tarlinton et al. 2006); ERV-Fc history (Diehl et al. 2016) | Available | A-006, H2a/H2b |
+| Recombination generating new infectious virus | Yes: ALV-J, MCF viruses, XMRV | Available | H2b, [P-006](PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage) |
+| Parallel near-site insertion (homoplasy) | Yes, rare: about 4% overlap at map-interval resolution for PTERV1 (Yohn et al. 2005) | Available, case by case, with the same evidential threshold | Not yet used |
+| Rate variation in LTR divergence | Yes for relative rates | Available for **ordinal** use; cardinal use depends on I-0008 | P-006 scoring uses relative order only |
+
 ## Disposition vocabulary
 
 | Disposition | Meaning |
@@ -91,8 +117,58 @@ Lisle (2010) argues that only the round-trip speed of light is measurable, that 
 
 ---
 
+## A-006 – ERV model under methodological designism (non-human scope)
+
+**Disposition:** `ADOPTED` (interim, scope-restricted; not load-bearing)
+
+Shared endogenous retroviruses are read as real germline corruption events, propagated by copying and managed by a host maintenance architecture; some retroviral lineages may have arisen from host-regulated endogenous elements (H2b). Source: "Endogenous Retroviruses under Methodological Designism," working outline v0.4 (JD Longmire with Claude), not yet deposited in a repository of record.
+
+**Scope.** Non-human lineages only, by the interim resolution of [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md). Shared human–ape ERVs are an open anomaly.
+
+**Grounds for adoption.** It generates registrable content ([P-006](PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage)), with novelty marked at entry. By its own Lakatosian scorecard it currently reaches parity with the mainstream endogenization-amplification programme on coverage only, and has no corroborated novel fact.
+
+**Falsification condition.** P-006 failing in the foamy lineage, with no other lineage passing by 2027-11-15, moves this to `UNDER REVIEW`.
+
+---
+
+## A-007 – Designed template copying at Adam's formation
+
+**Disposition:** `UNDER REVIEW`
+
+Copied genomic history shared by humans and apes reflects the Designer's reuse of a template genome when Adam was formed, as distinct from reproduction. It is the only known route by which A-006 could extend to human lineages within [HC-8](../programme/hard-core.md).
+
+**Why not adopted.** It currently has no excess empirical content over the mainstream programme, so adopting it under the pressure that prompted it would be ad hoc₁. It also carries stated costs: a pre-Adamic template population with its own sorting history inside the young timeframe, and the appearance-of-history question for the human case. See [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md).
+
+**Required to adopt.** A registered prediction that distinguishes template copying from reproduction, with novelty marked at entry, and the exegetical note required by I-0009.
+
+**Abductive assessment (added 2026-11-15, outline v0.5 §6F; see [I-0010](../issues/resolved/I-0010-erv-objective-abductive.md)).** On McCullagh's criteria A-007 gains scope and power. It loses on ad hocness (a pre-Adamic template population that sorted variation; a new category of elapsed history "inherited by fiat copy" that functional necessity does not cover) and on disconfirmation by the framework's own accepted beliefs. By [I-0011](../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md), the copied ERVs are elapsed history, so their insertion and damage precede the Fall, against the Fall-linked reading of corruption and in tension with HC-6 (Gen 1:31). Claude's verdict, **adopted by JD 2026-11-15 with the risk accepted:** A-007 does not close the scope gap at acceptable cost and is not adopted. Under S3 it is retained `UNDER REVIEW`, as an available auxiliary, and is not declined. What could change it: an account of pre-Fall corruption in non-human lineages held on independent grounds, or a reading of HC-6 compatible with it.
+
+---
+
+## A-008 – Independent targeting of shared integration sites
+
+**Disposition:** `DECLINED` as refuted
+
+Proposed in the July 2025 ERV draft and widely in the design-side literature: retroviruses independently target the same "integration interfaces" or hotspots in related genomes, producing shared ERVs without copying.
+
+**Grounds.** Integration preferences are real and regional, at most kilobase scale (Schröder et al. 2002; Wu et al. 2003). A single retrovirus independently infecting closely related species landed at non-orthologous sites about 95.8% of the time (Yohn et al. 2005). Empty pre-integration sites carry one copy of the target sequence and occupied sites two (Barbulescu et al. 1999, 2001), so the duplication is made by insertion. Shared duplications plus shared later mutations at the same base pair require a single event that was then copied.
+
+---
+
+## A-009 – Creation in place and originally site-specific integration
+
+**Disposition:** `DECLINED` as refuted
+
+Two related proposals: ERVs were created in strategic genomic locations (Liu 2013, ICC); or ERV integration was originally designed as site- or sequence-specific (Borger 2009).
+
+**Grounds.** An element created in place has no reason to carry a duplication of its own target site, and the empty-site evidence shows insertion produces it; creation in place also reintroduces the appearance-of-history objection. Original site-specificity would leave matching duplications, but it fails on shared post-insertion changes nested across species (Johnson & Coffin 1999), on the HERV-K-GC1 sorting case, and on present-day integration behaviour, and it posits a lost specificity with no independent evidence. A consensus of human HERV-K copies reconstructs an infectious progenitor that integrates with the present-day signature (Dewannieux et al. 2006).
+
+---
+
 ## Standing assessment
 
-Two adopted, one declined, one superseded, one under review.
+*As of 2026-11-15:* three adopted (A-006 interim), three declined, one superseded, two under review. A-008 and A-009 are the first declined entries since A-002, which this assessment previously flagged as needed.
+
+*Original assessment, retained:* Two adopted, one declined, one superseded, one under review.
 
 The declined entry is the programme's principal evidence that it applies the Lakatosian criterion to itself. It should not be the only one. An auxiliary register in which nothing is ever declined after A-002 would indicate the criterion had stopped being applied.

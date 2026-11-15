@@ -42,6 +42,8 @@ The candidate is the most serious contribution to this problem the programme has
 | Radiogenic daughter products (Pb-206, Pb-207, Ar-40, Sr-87, Nd-143) | **Contested** | Charter §6.2 and §7 claim they follow the parents. Applied strictly, they appear to fail: they are inert with respect to every function §6.2 names. See [I-0006](../../issues/open/I-0006-daughter-products-fail-functional-necessity.md). |
 | Crater populations on planetary surfaces | Elapsed history | Nothing about a functioning body requires an impact record at deployment. |
 | Molecular clock divergence | Elapsed history | A deployed organism requires a working genome and requires no accumulated substitutions. |
+| Endogenous retroviruses: target site duplications, disabled ORFs, solo LTRs, LTR divergence | Elapsed history | Added 2026-11-15 ([I-0011](../../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md)). No deployed function requires them; the duplication is made by insertion. **Unwelcome:** shared human–ape ERVs are assigned to elapsed history common to both genomes. |
+| Endogenous retroviruses: functional derived sequence (syncytin env, MER41 enhancer) | **Split** | Functional core may pass; flanking duplication fails. Same structure as the parent/daughter case of I-0006. |
 | Stellar main-sequence position | Pending | Named as requiring case-by-case treatment. |
 | Sediment fabrics | Pending | Same. |
 
@@ -56,6 +58,8 @@ Charter §7 committed in advance that an unwelcome verdict stands. This is the f
 **2. Downstream commitments from the exclusions are not yet costed.** Assigning crater populations to elapsed history places the planetary bombardment record inside the young timeframe, which is a substantive commitment about impact flux that the programme now owes an account of. It is a coherent position and it is not free.
 
 **3. The molecular clock exclusion is under-specified.** "A deployed organism requires no accumulated substitutions" is right for substitutions accumulated *within* a lineage. It does not straightforwardly cover sequence differences *between* lineages, which under separate creation would be initial state rather than accumulated change. The criterion needs a rule distinguishing within-lineage accumulation from between-lineage difference before its verdict on this class is determinate.
+
+*Candidate rule (2026-11-15, [I-0011](../../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md); proposed by Claude, accepted by JD as a candidate):* **process signatures**, meaning features whose only known source is a process (a target site duplication from insertion; LTRs identical at insertion that then diverge), mark elapsed history in whichever lineage they occur. Between-lineage differences without process signatures remain open to the initial-state reading.
 
 **4. Function is doing heavy lifting and is not always determinate.** The criterion asks what a system requires to discharge its function. For a planet and an organism this is tractable. For a sediment fabric or a stellar interior, "the function" is less obvious, which may be why charter §7 correctly leaves both pending rather than forcing them.
 
