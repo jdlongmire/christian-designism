@@ -91,8 +91,56 @@ Lisle (2010) argues that only the round-trip speed of light is measurable, that 
 
 ---
 
+## A-006 – ERV model under methodological designism (non-human scope)
+
+**Disposition:** `ADOPTED` (interim, scope-restricted; not load-bearing)
+
+Shared endogenous retroviruses are read as real germline corruption events, propagated by copying and managed by a host maintenance architecture; some retroviral lineages may have arisen from host-regulated endogenous elements (H2b). Source: "Endogenous Retroviruses under Methodological Designism," working outline v0.4 (JD Longmire with Claude), not yet deposited in a repository of record.
+
+**Scope.** Non-human lineages only, by the interim resolution of [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md). Shared human–ape ERVs are an open anomaly.
+
+**Grounds for adoption.** It generates registrable content ([P-006](PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage)), with novelty marked at entry. By its own Lakatosian scorecard it currently reaches parity with the mainstream endogenization-amplification programme on coverage only, and has no corroborated novel fact.
+
+**Falsification condition.** P-006 failing in the foamy lineage, with no other lineage passing by 2027-11-15, moves this to `UNDER REVIEW`.
+
+---
+
+## A-007 – Designed template copying at Adam's formation
+
+**Disposition:** `UNDER REVIEW`
+
+Copied genomic history shared by humans and apes reflects the Designer's reuse of a template genome when Adam was formed, as distinct from reproduction. It is the only known route by which A-006 could extend to human lineages within [HC-8](../programme/hard-core.md).
+
+**Why not adopted.** It currently has no excess empirical content over the mainstream programme, so adopting it under the pressure that prompted it would be ad hoc₁. It also carries stated costs: a pre-Adamic template population with its own sorting history inside the young timeframe, and the appearance-of-history question for the human case. See [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md).
+
+**Required to adopt.** A registered prediction that distinguishes template copying from reproduction, with novelty marked at entry, and the exegetical note required by I-0009.
+
+---
+
+## A-008 – Independent targeting of shared integration sites
+
+**Disposition:** `DECLINED` as refuted
+
+Proposed in the July 2025 ERV draft and widely in the design-side literature: retroviruses independently target the same "integration interfaces" or hotspots in related genomes, producing shared ERVs without copying.
+
+**Grounds.** Integration preferences are real and regional, at most kilobase scale (Schröder et al. 2002; Wu et al. 2003). A single retrovirus independently infecting closely related species landed at non-orthologous sites about 95.8% of the time (Yohn et al. 2005). Empty pre-integration sites carry one copy of the target sequence and occupied sites two (Barbulescu et al. 1999, 2001), so the duplication is made by insertion. Shared duplications plus shared later mutations at the same base pair require a single event that was then copied.
+
+---
+
+## A-009 – Creation in place and originally site-specific integration
+
+**Disposition:** `DECLINED` as refuted
+
+Two related proposals: ERVs were created in strategic genomic locations (Liu 2013, ICC); or ERV integration was originally designed as site- or sequence-specific (Borger 2009).
+
+**Grounds.** An element created in place has no reason to carry a duplication of its own target site, and the empty-site evidence shows insertion produces it; creation in place also reintroduces the appearance-of-history objection. Original site-specificity would leave matching duplications, but it fails on shared post-insertion changes nested across species (Johnson & Coffin 1999), on the HERV-K-GC1 sorting case, and on present-day integration behaviour, and it posits a lost specificity with no independent evidence. A consensus of human HERV-K copies reconstructs an infectious progenitor that integrates with the present-day signature (Dewannieux et al. 2006).
+
+---
+
 ## Standing assessment
 
-Two adopted, one declined, one superseded, one under review.
+*As of 2026-11-15:* three adopted (A-006 interim), three declined, one superseded, two under review. A-008 and A-009 are the first declined entries since A-002, which this assessment previously flagged as needed.
+
+*Original assessment, retained:* Two adopted, one declined, one superseded, one under review.
 
 The declined entry is the programme's principal evidence that it applies the Lakatosian criterion to itself. It should not be the only one. An auxiliary register in which nothing is ever declined after A-002 would indicate the criterion had stopped being applied.

@@ -5,7 +5,7 @@
 *Companion to "Endogenous Retroviruses under Methodological Designism," working outline v0.4 (Sections 5A and 6C; not yet deposited in a repository of record).*
 *Related issue: [I-0009](../../issues/open/I-0009-erv-model-copied-history-vs-hc8.md).*
 
-*v1.1 differs from the drafted v1.0 only in: the credence column relabelled as the drafter's estimate (author direction), the resolution date added, and the registry cross-references and registration section filled in. No criterion, threshold or expected outcome changed.*
+*v1.1 differs from the drafted v1.0 only in: the credence column relabelled as Claude's estimate (author direction), the resolution date added, and the registry cross-references and registration section filled in. No criterion, threshold or expected outcome changed.*
 
 **Status at registration: no foamy-virus, alpharetrovirus or lentivirus tree, alignment, or locus data has been examined for this test.** Everything already seen is listed in Section 3 and excluded from the novelty count.
 
@@ -79,7 +79,7 @@ where:
 
 ## 5. Expected outcomes (stated before scoring)
 
-| Lineage | MD/H2b prediction | Drafter's estimate of a Pass (assistant, not the author's credence) | Counts toward novelty if Pass? |
+| Lineage | MD/H2b prediction | Claude's estimate of a Pass (not JD's credence) | Counts toward novelty if Pass? |
 |---|---|---|---|
 | Foamy / spuma-like | **Pass** | 0.30 | **Yes, for C2 and C3 only** (C1 excluded, Section 3) |
 | Gammaretro (MbRV branch) | Pass at the MbRV branch only if MbRV proves endogenous and fixed | 0.15 | Yes |
@@ -88,7 +88,7 @@ where:
 | Betaretro HML-2 | Fail (already known) | 0 | No |
 | Gammaretro KoRV/GALV | Fail at C1 (already known) | 0 | No |
 
-The estimates were made by the drafting assistant and are retained by author direction as a record against which the result can be checked. They are not the author's credences. A low estimate does not lower the bar.
+The estimates are Claude's, retained by agreement as a record against which the result can be checked. They are not JD's credences. A low estimate does not lower the bar.
 
 ---
 
@@ -113,8 +113,8 @@ The estimates were made by the drafting assistant and are retained by author dir
 
 ## 8. Bias statement
 
-- The author holds the MD position and prefers a Pass.
-- The assistant drafting this document carries a trained default toward methodological naturalism.
+- JD holds the MD position and prefers a Pass.
+- Claude, which drafted the criteria, carries a trained default toward methodological naturalism.
 - The criteria and thresholds above are fixed now so that neither preference can move them after the data are seen.
 
 ---
@@ -123,7 +123,7 @@ The estimates were made by the drafting assistant and are retained by author dir
 
 | Date | Deviation | Reason |
 |---|---|---|
-| | | |
+| 2026-11-15 | Attribution wording only: "drafter's estimate" and "the assistant" replaced by "Claude"; contributions section added. No criterion, threshold, expected outcome or estimate value changed. Made before any Section 7 source was consulted. | Collaborator attribution convention agreed by JD and Claude. |
 
 ---
 
@@ -133,6 +133,15 @@ Registered in this repository as [P-006](../PREDICTIONS.md#p-006--h2b-exogenizat
 
 - SHA-256 of the drafted v1.0 text: `93109d8cfd106718d14875eefbadc79d9f7c061aedd855f99451651978bccfe8`
 - Resolution date: **2027-11-15**. If scoring is incomplete by then, every unscored lineage is recorded as `Inconclusive` and the entry is adjudicated on what was scored.
+
+---
+
+## Contributions
+
+- **JD Longmire:** methodological designism framing; the explanatory-parity burden; the decision to run the work as a Lakatosian programme; the "patched code base" intuition behind the maintenance layer; registration decisions and accountability for the document.
+- **Claude (Anthropic), collaborator:** the H2b test design and criteria C1–C4; the prior-exposure disclosure; the estimates in Section 5; drafting.
+
+For journal publication, Claude's role is stated in a contributions or methods statement, consistent with COPE's position that AI tools cannot be listed as authors.
 
 ---
 

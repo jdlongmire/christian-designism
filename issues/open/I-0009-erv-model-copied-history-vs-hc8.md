@@ -3,7 +3,7 @@
 **Opened:** 2026-11-15
 **Severity:** High. Self-generated, and it bears on a hard-core commitment.
 **Related:** [HC-8](../../programme/hard-core.md), [P-006](../../registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage), [`lines/genetics.md`](../../lines/genetics.md)
-**Blocks:** Adoption of the ERV model as a programme auxiliary. Does **not** block P-006.
+**Blocks:** Extension of the ERV model to human lineages. Does **not** block P-006.
 
 ## Problem
 
@@ -39,6 +39,15 @@ The genetics line has no model of its own beyond mutational load (P-004). The ER
 2. If R1: an exegetical note on template reuse at Adam's formation, and a written treatment of the appearance-of-history cost, entered here before the model is adopted.
 3. In every case: the model deposited in a repository of record, and [`lines/genetics.md`](../../lines/genetics.md) updated.
 
+## Positions
+
+**Claude (raised the issue, 2026-11-15): R3 now; R1 only if it passes a novelty test.**
+- R1 costs more than it first appears. HERV-K-GC1 is present at the identical base pair in gorilla, chimpanzee and bonobo and absent in humans (Barbulescu et al. 2001). That sorting pattern requires a template *population* with its own history, which gave rise to gorillas and chimpanzees before Adam's formation. In the charter's young timeframe this is a pre-Adamic primate population history compressed into the sixth day, and it pushes kind width toward a broad ape kind.
+- R1 currently predicts nothing the mainstream programme does not. Adopted now, under pressure and without excess content, it would be ad hoc₁, the signature the charter uses to decline A-002. The programme cannot decline RATE on that ground and then adopt R1 on the same footing.
+- R3 is honest about the cost: shared human–ape ERVs stay an open anomaly, which lowers coverage on the parity scorecard.
+
+**JD (2026-11-15):** agreed to proceed on this basis.
+
 ## Status
 
-Open. Raised by the drafting assistant during registration of P-006; awaiting author decision.
+Open, with an **interim resolution: R3**. The ERV model is adopted for non-human lineages only ([A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)). Shared human–ape ERVs are recorded as an open anomaly. R1 is entered as [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation) `UNDER REVIEW`. It moves to `ADOPTED` only with a registered prediction that distinguishes template copying from reproduction, novelty marked at entry. The issue closes when R1 is adopted or declined.

@@ -15,7 +15,7 @@ These may be mirrored to GitHub issues for external contributors. The files here
 
 | ID | Title | Severity | Blocks |
 |---|---|---|---|
-| [I-0009](open/I-0009-erv-model-copied-history-vs-hc8.md) | ERV model: copied history across the human–ape boundary conflicts with HC-8 | High | Adoption of the ERV model as an auxiliary (does not block P-006) |
+| [I-0009](open/I-0009-erv-model-copied-history-vs-hc8.md) | ERV model: copied history across the human–ape boundary conflicts with HC-8 | High | Extension of the ERV model to human lineages; interim R3 adopted (does not block P-006) |
 | [I-0008](open/I-0008-ordinal-cardinal-amendment.md) | Ordinal commitment, cardinal agnosticism: proposed hard-core amendment | High | Author decision; would amend HC-2, add HC-12, rewrite the §6.2 concordance argument |
 | [I-0006](open/I-0006-daughter-products-fail-functional-necessity.md) | Daughter products may fail the functional-necessity criterion | High | AD-001; liability on A-001; §8.3 |
 | [I-0001](open/I-0001-gfh-falsifier-list.md) | GFH falsifier list blocks P-002 registration | High | P-002, F-003 |

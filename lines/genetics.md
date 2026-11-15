@@ -35,5 +35,7 @@ This is the line where the programme is most exposed to the charge of citing a f
 
 **Registered content.** [P-006](../registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage): the H2b exogenization test, foamy-virus lineage first. Novelty `PARTIAL` (C1 known; C2 and C3 novel).
 
-**Open difficulty.** [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md): the model's acceptance of copied history across the human–ape boundary conflicts with HC-8. Until it is resolved the model is not adopted as a programme auxiliary. P-006 concerns non-human lineages and stands regardless.
+**Open difficulty.** [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md): the model's acceptance of copied history across the human–ape boundary conflicts with HC-8. Interim resolution: the model is adopted for non-human lineages only ([A-006](../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)), shared human–ape ERVs are an open anomaly, and designed template copying is under review ([A-007](../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation)). Two design-side mechanisms are declined as refuted ([A-008](../registry/AUXILIARIES.md#a-008--independent-targeting-of-shared-integration-sites), [A-009](../registry/AUXILIARIES.md#a-009--creation-in-place-and-originally-site-specific-integration)).
+
+**Contributors.** JD Longmire and Claude (Anthropic) as collaborator; contributions itemized in the P-006 pre-registration.
 
