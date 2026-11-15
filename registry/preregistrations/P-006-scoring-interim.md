@@ -92,7 +92,7 @@ C2 is unsatisfiable in principle for any lineage whose host clade has a single e
 
 ## 6. Second-reader status
 
-Pre-registration §7.4 requires an independent reader scoring from the same sources without access to the §5 expectations. **Not yet run.** Disagreements will be logged as an appendix to this file.
+Pre-registration §7.4 requires an independent reader scoring from the same sources without access to the §5 expectations. **Run 2026-11-15. Returned no scores. §7.4 is NOT satisfied and remains outstanding.** See Appendix A.
 
 ---
 
@@ -101,3 +101,23 @@ Pre-registration §7.4 requires an independent reader scoring from the same sour
 - Criteria C1-C4, source order, and the scoring frame: Claude, adopted by JD at registration.
 - This scoring pass, the lineage-by-lineage assessment, the Inconclusive call, and the §5 limitation: Claude.
 - Adjudication of the interim call and of any criteria amendment: JD.
+
+---
+
+## Appendix A: Second-reader pass, 2026-11-15 (null result)
+
+An independent reader was run without access to the §5 expectations or to this record, scoring C1-C4 from the published literature. **It returned no substantive scores.** Its only retrieval channel (WebSearch) returned titles and URLs with no snippet text across eight query formulations; full-text retrieval was unavailable to it for the same reason it was unavailable to the first reader. It declined to reconstruct bootstrap values, host counts, ORF lengths or dN/dS figures from background familiarity, and marked every criterion UNCERTAIN.
+
+**Standing:** §7.4 is not discharged. No disagreement log is possible, because there are no competing scores. The second-reader pass must be re-run once full-text access is restored, and it must be re-run blind: this record is now written, so the re-run reader must not be given it.
+
+**What the pass did contribute.** Two observations about the structure of the criteria, which do not depend on source text and which I judge sound:
+
+1. **C2 genome-availability constraint (independent convergence).** The second reader reached §5 of this record's observation independently: a lineage whose host clade has one sequenced or one extant species cannot satisfy C2 regardless of evidence quality. It named coelacanth (*Latimeria*, two extant species with very unequal genomic resources) alongside tuatara. Recorded as convergent, arrived at from the criterion's logic rather than from this record.
+
+2. **C3(c) is near-unobtainable for the lineages C1 selects (new).** C3's first conjunct requires (a) or (c); (b) alone cannot discharge it. Route (c), a published perturbation phenotype, requires transgenic or knockout work in the host. The lineages C1 forces into consideration are deep ones in non-model organisms, where no such platform exists and in the coelacanth's case cannot exist. So the first conjunct rests on (a), which requires >=2 hosts and therefore inherits the constraint in (1). C1 selects for depth and antiquity; C3(a)/(c) selects for experimental tractability and multiple sequenced genomes. The two pull against each other.
+
+**Assessment.** Point (2) is the more consequential of the two and I accept it. It means the C2/C3 failures recorded in §2 are partly structural: they report what the criteria can be fed, not only what the phylogeny shows. That does not rescue the prediction. A criterion that cannot be satisfied by available evidence yields no support for the model either, and the registered conjunction stands unsatisfied. But it changes what a Fail at resolution would mean, and it bears on whether C3 as written was well-formed at registration.
+
+**Not adopted here.** The second reader proposed revisions to C1, C2, C3(a) and C4, including a minimum-genome-availability precondition that would record data-limited lineages as unevaluable rather than Fail. Those are not applied. Any amendment goes through the deviation log in the pre-registration, pre-resolution, with the amendment and its date recorded, and is JD's call. Amending a criterion after seeing that it fails is exactly the move the pre-registration exists to constrain, so the default is to leave C1-C4 as registered and let them return whatever they return on 2027-11-15.
+
+**C4 note.** The second reader observed that C4 has no defined reference node while C2 and C3 are unresolved, since it is evaluated relative to the earliest lineage qualifying under them. The "LIKELY PASS" in §2 should be read accordingly: it records that no exogenous FV lineage appears basal to the candidate endogenous lineages in the trees consulted, not that C4 has been evaluated against a fixed node.
