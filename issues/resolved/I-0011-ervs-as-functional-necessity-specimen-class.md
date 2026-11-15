@@ -31,3 +31,7 @@ If JD accepts the application and the process-signature rule, ERVs supply a thir
 ## Status
 
 **Resolved 2026-11-15.** JD accepted (a) the four assignments, (b) the process-signature rule as a candidate on the demarcation page, and (c) counting ERVs toward AD-001 as a specimen class with an unwelcome verdict. AD-001 remains `PARTIAL`: the conjunct "holds without reassignment" is a matter of conduct over time.
+
+## Addendum, 2026-11-15 (later)
+
+[A-010](../../registry/AUXILIARIES.md#a-010--common-deployment-two-population-erv-model) proposes reassigning the human–ape shared set from process residue to the initial state. It is `UNDER REVIEW` and this resolution stands unless A-010 is adopted. If it is, the reassignment is to be logged against AD-001's "holds without reassignment" conjunct.

@@ -31,6 +31,8 @@ The genetics line has no model of its own beyond mutational load (P-004). The ER
 
 **R3. Restrict the model's scope.** Adopt the ERV model only for non-human lineages, and record human–ape shared ERVs as an open anomaly for the programme. Honest, but it leaves the strongest mainstream ERV datum unaddressed and counts against coverage in the outline's parity scorecard.
 
+**R5. Common deployment (added 2026-11-15).** Shared human–ape loci were deployed by design at instantiation into kinds sharing architecture; lineage-specific loci are post-Fall. No template lineage and no pre-Adamic history are needed, so R1's two costs fall away. Its own costs are listed at [A-010](../../registry/AUXILIARIES.md#a-010--common-deployment-two-population-erv-model), chiefly the reassignment of a specimen class (AD-001), shared lesions, the LTR gradient and the unidentified deployment variable.
+
 **R4. Decline the model.** Record it in [`registry/AUXILIARIES.md`](../../registry/AUXILIARIES.md) as declined, with grounds, as A-002 was.
 
 ## What resolution requires
@@ -48,6 +50,15 @@ The genetics line has no model of its own beyond mutational load (P-004). The ER
 
 **JD (2026-11-15):** agreed to proceed on this basis.
 
+**JD (2026-11-15, later): HC-8 scope and model.** The hard-core denial of common descent applies to humans only: humans are imago Dei and do not descend from any ape kind. Descent within other ape kinds' branches is acceptable. JD's model is common deployment of good code, with post-Fall disruption and kind-jumps (R5).
+
+**Claude (2026-11-15, later): corrections and position.**
+- *Correction.* My first position said the GC1 sorting pattern requires a template population. Under JD's HC-8 scope it does not: gorilla, chimpanzee and bonobo share the locus by their own branch history and humans were never in that branch. Withdrawn.
+- *Correction.* I told JD in session that the nesting "tracks bodily architecture". It does not on gross anatomy, where chimpanzees group with gorillas. The deployment variable is unidentified (A-010 cost 4).
+- *Position.* R5 is the best available route and reaches parity on the shared-locus datum. It is not yet adoptable: no registered prediction, and adopting it reassigns the I-0011 verdict, which AD-001 was counting. R3 stays in force until A-010 meets its stated adoption conditions.
+
+**Proposed HC-8 scope text (for JD; the hard core is not edited here).** "HC-8 denies reproductive descent of humans from any non-human kind. It makes no claim about descent among non-human kinds."
+
 ## Status
 
-Open, with an **interim resolution: R3**. The ERV model is adopted for non-human lineages only ([A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)). Shared human–ape ERVs are recorded as an open anomaly. R1 is entered as [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation) `UNDER REVIEW`. It moves to `ADOPTED` only with a registered prediction that distinguishes template copying from reproduction, novelty marked at entry. The issue closes when R1 is adopted or declined.
+Open, with an **interim resolution: R3**. The ERV model is adopted for non-human lineages only ([A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)). Shared human–ape ERVs are recorded as an open anomaly. R5 is entered as [A-010](../../registry/AUXILIARIES.md#a-010--common-deployment-two-population-erv-model) `UNDER REVIEW`, superseding A-007. Earlier text, retained: R1 is entered as [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation) `UNDER REVIEW`. It moves to `ADOPTED` only with a registered prediction that distinguishes template copying from reproduction, novelty marked at entry. The issue closes when R1 is adopted or declined.

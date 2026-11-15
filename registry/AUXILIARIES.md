@@ -133,7 +133,7 @@ Shared endogenous retroviruses are read as real germline corruption events, prop
 
 ## A-007 – Designed template copying at Adam's formation
 
-**Disposition:** `UNDER REVIEW`
+**Disposition:** `SUPERSEDED` by [A-010](#a-010--common-deployment-two-population-erv-model) on 2026-11-15. Text below retained as filed.
 
 Copied genomic history shared by humans and apes reflects the Designer's reuse of a template genome when Adam was formed, as distinct from reproduction. It is the only known route by which A-006 could extend to human lineages within [HC-8](../programme/hard-core.md).
 
@@ -165,9 +165,62 @@ Two related proposals: ERVs were created in strategic genomic locations (Liu 201
 
 ---
 
+## A-010 – Common deployment (two-population ERV model)
+
+**Disposition:** `UNDER REVIEW`. Supersedes A-007. JD's stated model (session of 2026-11-15); written up by Claude. Not adopted: it has no registered prediction yet, so adopting it now would be ad hoc₁ by the standard applied to A-007.
+
+**Statement.** ERV-class sequence in human and ape genomes belongs to two populations.
+
+1. **Deployed loci.** Good code installed by the Designer at instantiation, at the same addresses in kinds that share the relevant architecture. Viruses and virus-like elements were originally functional components of a good, ecologically active creation. These loci are expected to be shared across kinds, nested, and functional.
+2. **Post-Fall loci.** Products of disruption after the Fall, including cross-kind transmission ("kind-jumps") and ordinary untargeted integration. These are expected to be lineage-specific, scattered, and often neutral or harmful.
+
+Humans share deployed loci with apes by common deployment, with no reproductive descent of humans from any ape kind. Descent within an ape kind's own branches is accepted.
+
+**Author's framing commitments (JD, 2026-11-15).** Non-predatory animal death before the Fall, with scavenging acceptable; only humans initially immortal; common descent denied for humans only. See the HC-8 scope proposal in [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md).
+
+**Fit with data gathered 2026-11-15** (fit only; common descent explains each item too):
+- PtERV1 infected the gorilla and chimpanzee lineages separately, about 540 loci, with under 4% positional overlap and one orthologous insertion reported between them (Yohn et al. 2005; later counts as cited in the 2026 *Science Advances* LINC00662 study). This is the expected signature of a post-Fall kind-jump and is the model's type specimen for population 2.
+- Human absence of PtERV1 and of HERV-K-GC1 needs no sorting population: humans were never in those branches.
+- Human-specific and polymorphic HML-2 insertions (113 human-specific against 440 shared with chimpanzee; Belshaw et al. 2005) are population 2 in the human line.
+
+**How it differs from the declined A-009, and which refuting grounds it answers.**
+
+| A-009 ground | Status under A-010 |
+|---|---|
+| A created element has no reason to carry a target-site duplication | Answered only if deployment ran the integration machinery (mode D-a below). Unanswered under specification in place (mode D-b). |
+| Present-day integration is untargeted | Answered. No natural site-specificity is claimed; shared addresses come from a design act, and natural integration is assigned to population 2. |
+| HERV-K-GC1 sorting | Answered by the HC-8 scope clarification. |
+| Shared post-insertion changes nested across species (Johnson & Coffin 1999) | **Not answered.** See cost 2. |
+| A lost specificity with no independent evidence | Replaced by a design act, which also has no independent evidence. See cost 5. |
+| Infectious progenitor reconstructed from HERV-K copies (Dewannieux et al. 2006) | Partly answered: consistent with deployed code that was originally active. It cuts against reading shared lesions as specification. |
+
+**Deployment mode (open).** D-a: the code was installed by running integration, so the flanking duplication is a real process mark of the deployment act. D-b: the loci were specified in place. Claude leans D-a, because D-b inherits A-009's first ground. JD has not ruled.
+
+**Costs, stated in advance.**
+
+1. **Reassignment under pressure.** [I-0011](../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md) classed ERVs as process residue, and AD-001 counts that verdict on the condition that it "holds without reassignment". A-010 reassigns the shared set to the initial state. Adopting it spends that conjunct and must be logged as a reassignment made after an unwelcome verdict.
+2. **Shared lesions.** Humans and chimpanzees carry identical disabling changes at shared loci. They cannot be independent post-Fall decay. The model must read them as specified, which predicts patterned lesions (regulatory parts preserved) against the scatter expected from neutral decay. If the pattern is scatter, this counts against.
+3. **LTR divergence gradient.** Divergence between a provirus's two LTRs rises with nesting depth. The clock presupposes arrival by reverse transcription with identical ends, which deployed code need not have had, but the model gives no reason for the gradient. Unexplained.
+4. **The deployment variable is unidentified.** Deployment must follow something that groups humans with chimpanzees against gorillas, since humans and chimpanzees share loci gorillas lack. Ecology does not (chimpanzees and gorillas are closer). Gross anatomy does not either (same). Defining the variable from the genomes themselves would be circular. An independent variable is required.
+5. **No excess content yet.** Parity on the shared-locus datum, nothing more, until a prediction is registered and survives.
+6. **Post-Fall rates.** Population 2 must fit the young timeframe: hundreds of lineage-specific insertions, and LTR divergence near 1% in PtERV1, which standard rates read as millions of years. Needs a rate account.
+7. **Entailment.** Under the functional-maturity criterion the initial state contains only what function requires, so the deployed set must be functionally required. Most shared loci are untested.
+
+**Candidate predictions (not registered; novelty and mainstream expectation to be checked first).**
+- *Function step.* Function among shared loci is flat across nesting depth, with a step down at lineage-specific loci. Descent with co-option expects function to rise with insertion age.
+- *Lesion patterning.* Disabling changes at shared loci are non-randomly placed, sparing regulatory sequence.
+
+**Required to adopt.** At least one of these registered with novelty marked at entry; cost 1 logged against AD-001; cost 4 resolved or carried explicitly; JD's ruling on deployment mode; the HC-8 scope text settled.
+
+*Source confidence:* counts are from primary papers read in search extracts on 2026-11-15, `MEDIUM`; author attributions for Belshaw et al. 2005 and Yohn et al. 2005 to be verified against the papers before citation elsewhere.
+
+---
+
 ## Standing assessment
 
-*As of 2026-11-15:* three adopted (A-006 interim), three declined, one superseded, two under review. A-008 and A-009 are the first declined entries since A-002, which this assessment previously flagged as needed.
+*As of 2026-11-15 (later):* three adopted (A-006 interim), three declined, two superseded (A-007 by A-010), two under review.
+
+*As of 2026-11-15 (earlier), retained:* three adopted (A-006 interim), three declined, one superseded, two under review. A-008 and A-009 are the first declined entries since A-002, which this assessment previously flagged as needed.
 
 *Original assessment, retained:* Two adopted, one declined, one superseded, one under review.
 

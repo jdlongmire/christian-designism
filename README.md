@@ -37,7 +37,7 @@ The registers are designed to be able to embarrass the programme, and at creatio
 Recorded up front rather than discovered by a critic.
 
 - **Six predictions entered. One at `REGISTERED` status.** [P-006](registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage) (ERV exogenization test, resolves 2027-11-15) is the first, with novelty marked `PARTIAL` at entry. The other five are `DRAFT`, missing a falsifier, a resolution date, or both.
-- **The model behind P-006 is in tension with HC-8** ([I-0009](issues/open/I-0009-erv-model-copied-history-vs-hc8.md)). Interim resolution: adopted for non-human lineages only (A-006); shared human–ape ERVs are an open anomaly; designed template copying is under review (A-007).
+- **The model behind P-006 is in tension with HC-8** ([I-0009](issues/open/I-0009-erv-model-copied-history-vs-hc8.md)). Interim resolution: adopted for non-human lineages only (A-006); shared human–ape ERVs are an open anomaly; common deployment is under review (A-010, superseding A-007).
 - **Two more declined auxiliaries** (A-008, A-009): design-side accounts of shared ERVs that avoid copying, declined as refuted.
 - **AD-001's specimen-class conjunct is now satisfied** with ERVs as the third clean class ([I-0011](issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md)), and its verdict is unwelcome. AD-001 stays `PARTIAL` pending conduct over time.
 - **Parallel ERV programme.** The ERV sub-line runs in parallel with WP-038 in `designed-functional-maturity`, behind an information firewall, to be compared on a fixed rubric at 2027-11-15 ([`programme/parallel-erv-comparison.md`](programme/parallel-erv-comparison.md)).
