@@ -36,7 +36,8 @@ The registers are designed to be able to embarrass the programme, and at creatio
 
 Recorded up front rather than discovered by a critic.
 
-- **Five predictions registered. Zero at `REGISTERED` status.** All five are `DRAFT`, missing a falsifier, a resolution date, or both. Charter §9 conditions abandonment on registered-prediction failure, which is currently unenforceable.
+- **Six predictions entered. One at `REGISTERED` status.** [P-006](registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage) (ERV exogenization test, resolves 2027-11-15) is the first, with novelty marked `PARTIAL` at entry. The other five are `DRAFT`, missing a falsifier, a resolution date, or both.
+- **The model behind P-006 is in tension with HC-8** ([I-0009](issues/open/I-0009-erv-model-copied-history-vs-hc8.md)) and is not adopted as an auxiliary until that is resolved.
 - **Falsifier [F-002](registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion) is `UNMET`, but moved for the first time.** v1.1 supplies a candidate criterion, **functional necessity**, offered as provisional. It excludes real things: crater populations and molecular clock divergence are both assigned to elapsed history. Assessed at [`programme/demarcation/`](programme/demarcation/).
 - **The criterion may rule against the auxiliary it was built to support.** Applied strictly, radiogenic *parent* nuclides pass functional necessity and radiogenic *daughter* products do not, which would make the daughter-to-parent ratio an ordinary clock and would take the §8.3 concordance reply with it. Charter §7 commits in advance that an unwelcome verdict stands. This is the first test of that commitment, it is stated in the paper at §8.3 as of v1.2, and it is open in both directions. [I-0006](issues/open/I-0006-daughter-products-fail-functional-necessity.md) is the highest-value open question in the programme.
 - **Two traceability gaps.** The hydrotectonics falsifier list ([I-0001](issues/open/I-0001-gfh-falsifier-list.md)) and the cosmological pre-registration ([I-0003](issues/open/I-0003-cosmology-prereg-location.md)) are both cited by the charter as existing instruments. Neither has been located or produced.
@@ -56,7 +57,7 @@ Pointers, with status. Substantive content lives upstream.
 | [Geology](lines/geology.md) | [`global-flood-hydrotectonic-model`](https://github.com/jdlongmire/global-flood-hydrotectonic-model) | Hydraulic collapse adopted; blocked on upstream falsifier list |
 | [Geochronology](lines/geochronology.md) | this repository | Most developed and most exposed; rests on F-002 |
 | [Astronomy / cosmology](lines/astronomy.md) | none | Pre-registration not located; light travel time recorded as an open difficulty |
-| [Genetics](lines/genetics.md) | none | Cited without adjudicating its mainstream critics |
+| [Genetics](lines/genetics.md) | none | Mutational load cited without adjudicating its critics; ERV sub-line has one registered prediction (P-006) and an open HC-8 tension (I-0009) |
 | [Paleontology](lines/paleontology.md) | none | Least developed; qualitative only, generates no advance commitment |
 
 ---

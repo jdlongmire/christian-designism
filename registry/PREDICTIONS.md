@@ -93,9 +93,28 @@ The enforcement instrument for [`charter/consilience-is-not-consensus.md`](../ch
 
 ---
 
+## P-006 – H2b exogenization test (E5), foamy-virus lineage
+
+| Field | Value |
+|---|---|
+| **Line** | Genetics / endogenous retroviruses |
+| **Status** | `REGISTERED` |
+| **Registered** | 2026-11-15 |
+| **Claim** | In the foamy (spuma-like) retrovirus lineage, the infectious form arose from a host-regulated endogenous element (H2b). Operationally: the lineage passes all four criteria C1–C4 of the [pre-registration](preregistrations/P-006-e5-h2b-exogenization.md) §4. In summary: (C1) the exogenous clade is nested within endogenous diversity with ≥2 endogenous lineages branching earlier at bootstrap ≥70 or posterior ≥0.95; (C2) those earlier lineages have copies at orthologous, fixed loci in ≥2 host species; (C3) they show host-integrated regulation or function (retained ORF ≥80% of consensus with dN/dS <0.5 across ≥2 hosts, restricted expression, or a published perturbation phenotype), at the stated multiplicity; (C4) no exogenous lineage branches earlier than them. Secondary predictions for alpharetroviruses and the MbRV branch are registered in the same document under the same rules. |
+| **Novelty at registration** | `PARTIAL`. **C1 is `KNOWN`** for the foamy lineage: a phylogeny placing fish and amphibian foamy-like ERVs was seen (abstract only) before drafting. **C2 and C3 are `NOVEL`**: no foamy-virus locus, fixation, ORF, selection, expression or perturbation data had been examined at registration. Only a C2 + C3 pass is eligible for [AD-002](ADVANCEMENT.md#ad-002--corroboration-of-a-prediction-whose-content-was-unavailable-at-registration), and it counts as one fact. |
+| **Falsifier** | The foamy lineage is scored `Fail` under pre-registration §4: its endogenous copies are polymorphic, specific to one lineage and nested within exogenous diversity; or a consensus of endogenous copies reconstructs an infectious ancestor; or C1 or C4 is contradicted at the stated support; or, with sufficient published data to score them, C2 or C3 is not met. |
+| **Resolution date** | 2027-11-15. Lineages not scored by then are recorded as `Inconclusive`, which is never upgraded to a pass. |
+| **Pre-registration** | [`preregistrations/P-006-e5-h2b-exogenization.md`](preregistrations/P-006-e5-h2b-exogenization.md) (v1.1). Deviations only through its §9 log. |
+| **Already-scored lineages (excluded from novelty)** | HERV-K(HML-2): `Fail` (consensus reconstructs an infectious progenitor, Dewannieux et al. 2006). KoRV/GALV: `Fail` at C1 (endogenization in progress, Tarlinton et al. 2006). |
+| **Related issue** | [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md). The ERV model from which E5 derives is in tension with HC-8; E5 itself concerns non-human vertebrate lineages and does not depend on how that tension resolves. |
+
+---
+
 ## Standing assessment
 
-Five entries. **Zero at `REGISTERED`.**
+Six entries. **One at `REGISTERED`** ([P-006](#p-006--h2b-exogenization-test-e5-foamy-virus-lineage), 2026-11-15). Five remain `DRAFT`.
+
+*Original assessment at repository creation, retained:* Five entries. **Zero at `REGISTERED`.**
 
 This is the honest state of the programme at repository creation, and recording it is the point of the instrument. Charter §7 claims the programme "has produced testable content" and "has recorded some corroborations." Both claims are defensible in substance and neither is yet enforceable through this registry. Charter §9 makes registered-prediction failure a condition of abandonment, which is unenforceable while the register is empty of registered predictions.
 
