@@ -115,6 +115,8 @@ Copied genomic history shared by humans and apes reflects the Designer's reuse o
 
 **Required to adopt.** A registered prediction that distinguishes template copying from reproduction, with novelty marked at entry, and the exegetical note required by I-0009.
 
+**Abductive assessment (added 2026-11-15, outline v0.5 §6F; see [I-0010](../issues/open/I-0010-erv-objective-abductive.md)).** On McCullagh's criteria A-007 gains scope and power. It loses on ad hocness (a pre-Adamic template population that sorted variation; a new category of elapsed history "inherited by fiat copy" that functional necessity does not cover) and on disconfirmation by the framework's own accepted beliefs. By [I-0011](../issues/open/I-0011-ervs-as-functional-necessity-specimen-class.md), the copied ERVs are elapsed history, so their insertion and damage precede the Fall, against the Fall-linked reading of corruption and in tension with HC-6 (Gen 1:31). Claude's verdict: A-007 does not close the scope gap at acceptable cost. Open for JD's adjudication. What could change it: an account of pre-Fall corruption in non-human lineages held on independent grounds, or a reading of HC-6 compatible with it.
+
 ---
 
 ## A-008 – Independent targeting of shared integration sites
