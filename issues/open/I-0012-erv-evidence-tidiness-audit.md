@@ -38,6 +38,8 @@ Read: Yoo et al., bioRxiv v2 full text (preprint of the *Nature* paper; `MEDIUM`
 
 **Next for A1.** Search for a later orthologous-ERV census on these assemblies. Failing that, a census can be computed from the public assemblies, repeat annotations and alignments. This session cannot reach that data (its network is limited to package registries and GitHub), so the computation needs another route, to be decided by JD.
 
+**Routed 2026-11-15.** JD directed the computation to thinx-muse as a compute-only job under firewall terms (disclosure log entry 3 in [`lines/genetics.md`](../../lines/genetics.md)). Deliverable: a pull request adding `validation/erv-census/`. The method reports unresolved loci as their own class and runs the count in both directions.
+
 ## Recorded against the hypothesis
 
 - Insertion presence/absence markers are strongly congruent with the standard tree (Salem et al. 2003; Hormozdiari et al. 2013).
