@@ -24,6 +24,20 @@ JD's hypothesis: the literature is shaped around its premises and the evidence i
 | A4 | Presence and absence are scored evenly | Shared loci are counted as support. HERV-K-GC1 (present in gorilla and chimpanzee, empty site in human; Barbulescu et al. 2001) and 187 mobile-element insertions inconsistent with the ape phylogeny (Hormozdiari et al. 2013) are assigned to lineage sorting. | Count ERV loci specifically that conflict with the standard tree, and the ratio to congruent ones. | A conflict rate above what lineage sorting predicts from independent data. |
 | A5 | Nested shared mutations are shown at scale | The standard demonstration is Johnson & Coffin (1999). How many loci it rests on, and whether it has been repeated genome-wide, is `UNCERTAIN`; not yet checked. | Read the primary; search for genome-scale replications. | A demonstration resting on a handful of loci with no replication. |
 
+## A1 progress, 2026-11-15
+
+Read: Yoo et al., bioRxiv v2 full text (preprint of the *Nature* paper; `MEDIUM`, verify against the published version).
+
+- The paper's ERV analysis covers **species-specific insertions only**. It reports no count or fraction of ERV loci shared between human and chimpanzee or among apes. **No shared-locus census exists in this paper.**
+- Full-length species-specific ERVs with target site duplications and gag/pol domains: gorilla 44, human 12, chimpanzee 3.
+- 12.5–27.3% of the genome fails to align or departs from simple one-to-one alignment, concentrated in centromeres, telomeres, acrocentric regions and segmental duplications. Gap divergence affects 5 to 15 times more sequence than single-nucleotide divergence.
+- Lineage sorting is estimated at about 39.5% of the autosomes and about 24% of the X, roughly 7.5 points higher than estimates from less complete genomes.
+- The paper notes that complete genomes do not remove annotation biases that favour human.
+
+**Reading.** The premise of A1 holds: the shared-ERV counts in circulation predate human-independent assemblies, and the paper that produced those assemblies did not recount them. Whether the shared fraction changes is unknown. The rise in the lineage-sorting estimate with completeness shows the tidy figures moved when the hard regions were included.
+
+**Next for A1.** Search for a later orthologous-ERV census on these assemblies. Failing that, a census can be computed from the public assemblies, repeat annotations and alignments. This session cannot reach that data (its network is limited to package registries and GitHub), so the computation needs another route, to be decided by JD.
+
 ## Recorded against the hypothesis
 
 - Insertion presence/absence markers are strongly congruent with the standard tree (Salem et al. 2003; Hormozdiari et al. 2013).
