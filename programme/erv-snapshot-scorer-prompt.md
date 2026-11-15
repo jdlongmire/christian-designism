@@ -1,6 +1,6 @@
 # Snapshot scorer prompt
 
-**Status:** DRAFT, prepared 2026-11-15 by Claude (thinx-claude) for JD to paste into a fresh session with no memory of either programme. Fill in the two commit hashes first. Everything below the line is the prompt.
+**Status:** Approved for use by JD (2026-11-15, 08:41 CT). Prepared 2026-11-15 by Claude (thinx-claude) for JD to paste into a fresh session with no memory of either programme. Fill in the two commit hashes first. Everything below the line is the prompt.
 
 ---
 

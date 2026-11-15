@@ -1,6 +1,6 @@
 # Proposal: synthesise the ERV work into one repository
 
-**Status:** DRAFT for JD's decision. Nothing here is in force.
+**Status:** Steps 1 to 3 **approved by JD** (session of 2026-11-15, 08:41 CT). Scorer: a fresh GPT session opened by JD. Still open: repository name and visibility, and whether the census request's bar on use in WP-038 is relaxed after the lift.
 **Drafted:** 2026-11-15 by Claude (thinx-claude), at JD's request.
 **Affects:** [`parallel-erv-comparison.md`](parallel-erv-comparison.md), the ERV sub-line in [`../lines/genetics.md`](../lines/genetics.md), and the DFM ERV work packages (not read by the drafter).
 

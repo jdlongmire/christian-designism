@@ -49,6 +49,7 @@ The rubric may be amended before the comparison date only by JD, with the amendm
 | Date | Amendment |
 |---|---|
 | 2026-11-15 | Adopted. |
+| 2026-11-15 | Entered at JD's direction (session, 08:41 CT). Comparison brought forward to a snapshot at pinned commits, ahead of a planned synthesis of the two efforts. Made after three logged disclosures and one scope ruling; neither programme had read the other's working results. The 2027-11-15 comparison is withdrawn. The firewall stays in force until the snapshot report is delivered. Scorer: a fresh GPT session opened by JD with no memory of either programme, using [`erv-snapshot-scorer-prompt.md`](erv-snapshot-scorer-prompt.md). |
 
 ## Scope rulings
 
