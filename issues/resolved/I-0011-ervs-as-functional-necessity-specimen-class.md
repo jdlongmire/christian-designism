@@ -3,7 +3,7 @@
 **Opened:** 2026-11-15
 **Severity:** High. A candidate third specimen class for AD-001, with an unwelcome verdict, and a candidate rule for the criterion's open difficulty 3.
 **Type:** Proposed application of the criterion, drafted by Claude for JD's decision. The demarcation page is unchanged.
-**Related:** [F-002](../../registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion), [AD-001](../../registry/ADVANCEMENT.md#ad-001--demarcation-criterion-applied-in-advance-across-three-specimen-classes), [`programme/demarcation/`](../../programme/demarcation/), [I-0006](I-0006-daughter-products-fail-functional-necessity.md), [I-0009](I-0009-erv-model-copied-history-vs-hc8.md), [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation)
+**Related:** [F-002](../../registry/FALSIFIERS.md#f-002--continued-failure-to-supply-a-demarcation-criterion), [AD-001](../../registry/ADVANCEMENT.md#ad-001--demarcation-criterion-applied-in-advance-across-three-specimen-classes), [`programme/demarcation/`](../../programme/demarcation/), [I-0006](../open/I-0006-daughter-products-fail-functional-necessity.md), [I-0009](../open/I-0009-erv-model-copied-history-vs-hc8.md), [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation)
 
 ## The application
 
@@ -30,4 +30,4 @@ If JD accepts the application and the process-signature rule, ERVs supply a thir
 
 ## Status
 
-Open, for JD's decision on: (a) the four assignments; (b) the process-signature rule as a candidate for the demarcation page; (c) whether the class is counted toward AD-001.
+**Resolved 2026-11-15.** JD accepted (a) the four assignments, (b) the process-signature rule as a candidate on the demarcation page, and (c) counting ERVs toward AD-001 as a specimen class with an unwelcome verdict. AD-001 remains `PARTIAL`: the conjunct "holds without reassignment" is a matter of conduct over time.

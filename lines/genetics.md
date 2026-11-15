@@ -37,9 +37,11 @@ This is the line where the programme is most exposed to the charge of citing a f
 
 **Open difficulty.** [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md): the model's acceptance of copied history across the human–ape boundary conflicts with HC-8. Interim resolution: the model is adopted for non-human lineages only ([A-006](../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)), shared human–ape ERVs are an open anomaly, and designed template copying is under review ([A-007](../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation)). Two design-side mechanisms are declined as refuted ([A-008](../registry/AUXILIARIES.md#a-008--independent-targeting-of-shared-integration-sites), [A-009](../registry/AUXILIARIES.md#a-009--creation-in-place-and-originally-site-specific-integration)).
 
-**Objective and appraisal** ([I-0010](../issues/open/I-0010-erv-objective-abductive.md)): a plausible, abductive model within the designist framework. On McCullagh's criteria it reaches parity with the mainstream model except on scope, where shared human–ape ERVs remain the one open class. Lakatosian standing is still reported separately.
+**Objective and appraisal** ([I-0010](../issues/resolved/I-0010-erv-objective-abductive.md)): a plausible, abductive model within the designist framework. On McCullagh's criteria it reaches parity with the mainstream model except on scope, where shared human–ape ERVs remain the one open class. Lakatosian standing is still reported separately.
 
-**Demarcation** ([I-0011](../issues/open/I-0011-ervs-as-functional-necessity-specimen-class.md)): functional necessity applied to ERVs yields a candidate third specimen class for AD-001, with an unwelcome verdict, and a candidate process-signature rule for the criterion's open difficulty 3.
+**Demarcation** ([I-0011](../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md)): functional necessity applied to ERVs supplies AD-001's third clean specimen class, with an unwelcome verdict, and a candidate process-signature rule for the criterion's open difficulty 3 (accepted 2026-11-15).
+
+**Auxiliary latitude:** the programme claims the same latitude as the mainstream programme, on the same terms (symmetry rule, [`registry/AUXILIARIES.md`](../registry/AUXILIARIES.md#symmetry-of-auxiliary-latitude-adopted-2026-11-15)). A-007 is retained `UNDER REVIEW` under that rule.
 
 **Contributors.** JD Longmire and Claude (Anthropic) as collaborator; contributions itemized in the P-006 pre-registration.
 

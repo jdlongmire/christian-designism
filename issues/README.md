@@ -15,8 +15,6 @@ These may be mirrored to GitHub issues for external contributors. The files here
 
 | ID | Title | Severity | Blocks |
 |---|---|---|---|
-| [I-0011](open/I-0011-ervs-as-functional-necessity-specimen-class.md) | ERVs as a specimen class for functional necessity | High | Author decision; candidate third class for AD-001 |
-| [I-0010](open/I-0010-erv-objective-abductive.md) | ERV sub-line objective clarified: abductive model, Lakatosian standing retained | Medium | Author confirmation |
 | [I-0009](open/I-0009-erv-model-copied-history-vs-hc8.md) | ERV model: copied history across the human–ape boundary conflicts with HC-8 | High | Extension of the ERV model to human lineages; interim R3 adopted (does not block P-006) |
 | [I-0008](open/I-0008-ordinal-cardinal-amendment.md) | Ordinal commitment, cardinal agnosticism: proposed hard-core amendment | High | Author decision; would amend HC-2, add HC-12, rewrite the §6.2 concordance argument |
 | [I-0006](open/I-0006-daughter-products-fail-functional-necessity.md) | Daughter products may fail the functional-necessity criterion | High | AD-001; liability on A-001; §8.3 |
@@ -30,6 +28,8 @@ These may be mirrored to GitHub issues for external contributors. The files here
 | ID | Title | Resolved | How |
 |---|---|---|---|
 | [I-0002](resolved/I-0002-pearson-priority-verification.md) | Pearson priority claim requires verification | v1.1 | Claim restated at the strength the evidence supports; predictive priority withdrawn rather than defended |
+| [I-0010](resolved/I-0010-erv-objective-abductive.md) | ERV sub-line objective clarified: abductive model, Lakatosian standing retained | 2026-11-15 | Two-level appraisal confirmed by JD; symmetry rule adopted for auxiliaries |
+| [I-0011](resolved/I-0011-ervs-as-functional-necessity-specimen-class.md) | ERVs as a specimen class for functional necessity | 2026-11-15 | Assignments and process-signature rule accepted; counted toward AD-001 |
 | [I-0007](resolved/I-0007-v10-additions-not-carried-forward.md) | Three v1.0 additions not carried forward into v1.1 | v1.2 | All three restored by author direction, the §8.3 concession strengthened; workflow rule adopted |
 
 ## Workflow rule (adopted at v1.2)

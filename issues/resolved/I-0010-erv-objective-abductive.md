@@ -3,7 +3,7 @@
 **Opened:** 2026-11-15
 **Severity:** Medium. Methodological; changes how the ERV sub-line is appraised.
 **Type:** Clarification by JD, recorded with the yardstick change made explicit.
-**Related:** [A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope), [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation), [I-0009](I-0009-erv-model-copied-history-vs-hc8.md), [I-0011](I-0011-ervs-as-functional-necessity-specimen-class.md), [P-006](../../registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage)
+**Related:** [A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope), [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation), [I-0009](../open/I-0009-erv-model-copied-history-vs-hc8.md), [I-0011](I-0011-ervs-as-functional-necessity-specimen-class.md), [P-006](../../registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage)
 
 ## What changed
 
@@ -29,4 +29,4 @@ Parity on power, plausibility, ad hocness and disconfirmation. Short on scope by
 
 ## Status
 
-Open until JD confirms the two-level structure as the ERV sub-line's standing method. If confirmed, close with the date of confirmation and a pointer to the outline section.
+**Resolved 2026-11-15.** JD confirmed the two-level structure as the ERV sub-line's standing method (outline v0.5 §2A, §6D), and adopted the A-007 verdict with the risk accepted. Auxiliary latitude is governed by the symmetry rule in [`registry/AUXILIARIES.md`](../../registry/AUXILIARIES.md#symmetry-of-auxiliary-latitude-adopted-2026-11-15).
