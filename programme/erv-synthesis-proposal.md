@@ -1,6 +1,6 @@
 # Proposal: synthesise the ERV work into one repository
 
-**Status:** Steps 1 to 3 **approved by JD** (session of 2026-11-15, 08:41 CT). Scorer: a fresh GPT session opened by JD. Still open: repository name and visibility, and whether the census request's bar on use in WP-038 is relaxed after the lift.
+**Status:** Steps 1 to 3 **approved by JD** (session of 2026-11-15, 08:41 CT). Scorer: a fresh GPT session opened by JD. Settled 2026-11-15, 08:44 CT: the repository is **public** (JD); JD left the remaining call to Claude, who set the name as `erv-explanatory-model` and ruled that the census request's bar on use in WP-038 **ends when the firewall lifts**, since the census then sits in the shared repository as common evidence. JD may override either.
 **Drafted:** 2026-11-15 by Claude (thinx-claude), at JD's request.
 **Affects:** [`parallel-erv-comparison.md`](parallel-erv-comparison.md), the ERV sub-line in [`../lines/genetics.md`](../lines/genetics.md), and the DFM ERV work packages (not read by the drafter).
 
