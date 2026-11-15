@@ -22,7 +22,11 @@
 
 Lifting the firewall cannot be undone. Whether the two efforts converged without contact is the valuable result, so it is captured first.
 
-- **Scorer:** grok is recommended. It is the bridge's independent verification hand and has no recorded ERV involvement. thinx-gpt is excluded, having reviewed WP-038 at its G1 gate.
+- **Scorer:** grok is the clean choice (independent verification hand, no recorded ERV involvement) but may not be available. **thinx-gpt is acceptable with three guards**, because it reviewed WP-038 at its G1 gate and so helped shape one of the two efforts:
+  1. its report opens by declaring that prior role;
+  2. it lists which WP-038 features followed from its own review findings, and those earn no credit as independent convergence;
+  3. every score cites repository path and commit, so JD can audit it.
+  A fresh session opened by JD with only the pinned inputs is the other option. It meets the protocol's wording, but it would be a Claude instance scoring work Claude drafted.
 - **Inputs:** both repositories at pinned commits, the rubric R1–R8, and the disclosure log. Nothing else.
 - **Adjudication:** JD.
 
