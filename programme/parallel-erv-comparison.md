@@ -49,3 +49,13 @@ The rubric may be amended before the comparison date only by JD, with the amendm
 | Date | Amendment |
 |---|---|
 | 2026-11-15 | Adopted. |
+| 2026-11-15 | Entered at JD's direction (session, 08:41 CT). Comparison brought forward to a snapshot at pinned commits, ahead of a planned synthesis of the two efforts. Made after three logged disclosures and one scope ruling; neither programme had read the other's working results. The 2027-11-15 comparison is withdrawn. The firewall stays in force until the snapshot report is delivered. Scorer: a fresh GPT session opened by JD with no memory of either programme, using [`erv-snapshot-scorer-prompt.md`](erv-snapshot-scorer-prompt.md). |
+
+## Scope rulings
+
+Rulings on what the firewall does and does not cover, recorded so the comparison
+cannot later be accused of undisclosed leakage.
+
+| # | Date | Question | Ruling | Ruled by |
+|---|---|---|---|---|
+| 1 | 2026-11-15 | May this programme draw on JD's own published procedural-generation and DFM framing as a conceptual resource for the shared-ERV problem, given that the firewall separates this effort from the DFM ERV work packages WP-038 and WP-033? | **In bounds.** JD's own published framework is available to this programme. The firewall continues to bar reading WP-038 and WP-033 working material, interim results and model content. | JD, session of 2026-11-15 08:11 CT |
