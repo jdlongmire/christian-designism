@@ -200,13 +200,16 @@ Humans share deployed loci with apes by common deployment, with no reproductive 
 
 1. **Reassignment under pressure.** [I-0011](../issues/resolved/I-0011-ervs-as-functional-necessity-specimen-class.md) classed ERVs as process residue, and AD-001 counts that verdict on the condition that it "holds without reassignment". A-010 reassigns the shared set to the initial state. Adopting it spends that conjunct and must be logged as a reassignment made after an unwelcome verdict.
 2. **Shared lesions.** Humans and chimpanzees carry identical disabling changes at shared loci. They cannot be independent post-Fall decay. The model must read them as specified, which predicts patterned lesions (regulatory parts preserved) against the scatter expected from neutral decay. If the pattern is scatter, this counts against.
-3. **LTR divergence gradient.** Divergence between a provirus's two LTRs rises with nesting depth. The clock presupposes arrival by reverse transcription with identical ends, which deployed code need not have had, but the model gives no reason for the gradient. Unexplained.
+3. **LTR divergence gradient.** ~~Unexplained.~~ **Retired 2026-11-16** by JD's chronometry argument: divergence is a property of a coherently instantiated mature state rather than a readout of elapsed process, with chronometers agreeing because they are downstream of one instantiation. The same move covers much of the target-site-duplication objection. See [session record](../programme/session-record-2026-11-16.md) section 3.
 4. **The deployment variable is unidentified.** Deployment must follow something that groups humans with chimpanzees against gorillas, since humans and chimpanzees share loci gorillas lack. Ecology does not (chimpanzees and gorillas are closer). Gross anatomy does not either (same). Defining the variable from the genomes themselves would be circular. An independent variable is required.
 5. **No excess content yet.** Parity on the shared-locus datum, nothing more, until a prediction is registered and survives.
 6. **Post-Fall rates.** Population 2 must fit the young timeframe: hundreds of lineage-specific insertions, and LTR divergence near 1% in PtERV1, which standard rates read as millions of years. Needs a rate account.
 7. **Entailment.** Under the functional-maturity criterion the initial state contains only what function requires, so the deployed set must be functionally required. Most shared loci are untested.
 
+**Framing (JD, 2026-11-16).** A mature designed forest rather than an emergent tree: kinds instantiated complete, descent operating within each, and vines (lateral transfer, population 2) traversing the forest afterwards. The dispute with common descent is about the maturity of the starting point.
+
 **Candidate predictions (not registered; novelty and mainstream expectation to be checked first).**
+- *Discontinuity at kind boundaries.* Between-kind genomic distances cluster with real discontinuity; the emergent-tree model expects continuous gradation. The first candidate in this programme that could add content rather than absorb a result. Sharpest, and most strained, at the human-ape boundary.
 - *Function step.* Function among shared loci is flat across nesting depth, with a step down at lineage-specific loci. Descent with co-option expects function to rise with insertion age.
 - *Lesion patterning.* Disabling changes at shared loci are non-randomly placed, sparing regulatory sequence.
 

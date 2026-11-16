@@ -59,6 +59,10 @@ The genetics line has no model of its own beyond mutational load (P-004). The ER
 
 **Proposed HC-8 scope text (for JD; the hard core is not edited here).** "HC-8 denies reproductive descent of humans from any non-human kind. It makes no claim about descent among non-human kinds."
 
+**JD (2026-11-16): the maturity reframing.** Common descent and common design differ mainly in the maturity of the starting point; the dispute concerns S0. Image: a mature designed forest with vines traversing it, rather than an emergent tree. This retires A-010 cost 3 (see [session record](../../programme/session-record-2026-11-16.md)).
+
+**Claude (2026-11-16): what it leaves.** Cost 4 stands. Maturity does not explain why the initial state carries a nested structure matching reproductive branching; that requires the specification itself to have branching structure. If it does, the two accounts become empirically equivalent on this datum, so the ERV argument is an underdetermination rather than a defeater, and the auxiliary scores ad hoc₁ until it predicts what descent does not. R3 remains in force.
+
 ## Status
 
 Open, with an **interim resolution: R3**. The ERV model is adopted for non-human lineages only ([A-006](../../registry/AUXILIARIES.md#a-006--erv-model-under-methodological-designism-non-human-scope)). Shared human–ape ERVs are recorded as an open anomaly. R5 is entered as [A-010](../../registry/AUXILIARIES.md#a-010--common-deployment-two-population-erv-model) `UNDER REVIEW`, superseding A-007. Earlier text, retained: R1 is entered as [A-007](../../registry/AUXILIARIES.md#a-007--designed-template-copying-at-adams-formation) `UNDER REVIEW`. It moves to `ADOPTED` only with a registered prediction that distinguishes template copying from reproduction, novelty marked at entry. The issue closes when R1 is adopted or declined.
