@@ -27,6 +27,8 @@ This is the line where the programme is most exposed to the charge of citing a f
 
 ## Sub-line: endogenous retroviruses (added 2026-11-15)
 
+**Primary programme pointer (2026-11-18).** JD has established **ERV Design Model** (`jdlongmire/erv-design-model`, https://github.com/jdlongmire/erv-design-model) as the primary programme for ERV Design Model research. This sub-line remains this programme's own record under its charter and registers; P-006 and its 2027-11-15 resolution date are unchanged. The pointer is a programme-home direction only and carries no model content in either direction.
+
 **Model:** "Endogenous Retroviruses under Methodological Designism," working outline v0.4. *Not yet deposited in a repository of record.*
 
 **Position.** The ERV record is read as real corruption events, propagated by copying and managed by a host maintenance architecture. The model sets its own burden at **explanatory parity, at least**, with the mainstream endogenization-amplification programme, scored on Lakatosian criteria. Jorritsma (2022) has already assessed the mainstream programme as progressive on orthologous ERVs, target site duplications and LTR divergence.
