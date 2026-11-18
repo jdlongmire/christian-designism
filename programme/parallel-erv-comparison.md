@@ -4,6 +4,8 @@
 **Comparison date:** **2027-11-15** (the resolution date of P-006).
 **Visibility rule:** this file contains no model content from either programme. It is the one file in this repository that the firewall allows the other programme to read before the comparison date.
 
+**Update (JD ruling, 2026-11-18).** JD has established a new primary programme for ERV Design Model research, **ERV Design Model** (`jdlongmire/erv-design-model`, https://github.com/jdlongmire/erv-design-model), curated from the Original Biological Network line. This comparison protocol, the firewall terms below, and the 2027-11-15 comparison date remain as recorded here unless JD rules otherwise. This update note contains no model content from any programme.
+
 ## The two programmes
 
 | | Programme A | Programme B |
