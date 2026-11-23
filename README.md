@@ -20,6 +20,21 @@ Repository index: **[`03-registry/REPOSITORIES.md`](03-registry/REPOSITORIES.md)
 
 Work packages: **[`04-work-packages/`](04-work-packages/README.md)**, the register of governed work in this repository.
 
+## Repository layout (renumbered 2026-11-23)
+
+This repository's top level was refactored into an enumerated tree under [WP-CD-0002](04-work-packages/WP-CD-0002-enumerated-tree-refactor/README.md). A reader holding an older path finds the new one here:
+
+| Before 2026-11-23 | Now |
+|---|---|
+| `charter/` | `01-charter/` |
+| `programme/` | `02-programme/` |
+| `registry/` | `03-registry/` |
+| `lines/` | `05-lines/` |
+| `issues/` | `06-issues/` |
+| `validation/` | `07-validation/` |
+
+`04-work-packages/` and the root files did not move.
+
 ---
 
 ## Why this repository exists as an institution rather than a paper
