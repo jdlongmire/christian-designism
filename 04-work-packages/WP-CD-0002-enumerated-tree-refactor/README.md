@@ -1,6 +1,6 @@
 # WP-CD-0002: Enumerated-tree refactor
 
-**Status:** Chartered, execution gated. This package is filed as a charter only. No path moves until JD Longmire approves the target tree below.
+**Status:** Executed 2026-11-23 on JD Longmire's approval of the target tree as proposed. Open pending JD's acceptance of the executed refactor.
 **Opened:** 2026-11-23, on JD Longmire's direction (BWM alignment session: "Create WP-CD-0002 as a charter, execution after I review the target tree")
 **Owner:** JD Longmire (ratifier, and approver of the target tree). Execution, once approved: Thinx-Muse.
 **Machine-readable state:** [package.yaml](package.yaml)
@@ -55,3 +55,7 @@ Out of scope:
 Charter open. Execution begins only on JD's recorded approval of the target tree, in this package or in the session that reviews it. On execution and verification, this package closes with the link-check output as evidence.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Execution record (2026-11-23)
+
+JD approved the target tree as proposed ("Approved", BWM alignment session, 2026-11-23). The refactor executed the same day: full-tree move in one commit, internal path references rewritten in 33 files, one pre-existing broken link (principles to hard core) found by the link check and fixed, companion updates filed in biblical-worldmodel and designed-functional-maturity for the inbound paths they hold. Post-move link check: 214 relative links, 0 failures. Full inventory and check output: [evidence/link-check-2026-11-23.md](evidence/link-check-2026-11-23.md).

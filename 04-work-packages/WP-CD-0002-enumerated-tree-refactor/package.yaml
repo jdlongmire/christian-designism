@@ -1,6 +1,6 @@
 id: WP-CD-0002
 title: Enumerated-tree refactor
-status: chartered
+status: executed
 opened: 2026-11-23
 authority: JD Longmire, BWM alignment session, 2026-11-23 (charter only; execution gated on his review of the target tree)
 scope: >
@@ -30,4 +30,5 @@ verification: >
   link resolves at the new path), targeted readback of companion links, and
   a tree listing from main showing the enumerated structure.
 disposition: open
-gate: execution requires JD approval of the target tree
+gate: satisfied 2026-11-23 (JD approved the target tree as proposed)
+executed: 2026-11-23
