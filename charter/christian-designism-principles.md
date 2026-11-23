@@ -14,11 +14,13 @@ Christian Designism acknowledges both special divine intervention and natural pr
 
 Christian Designism holds to special and natural mechanisms within a single history model of five epochs:
 
-1. **Special creation.** God creates the heavens, the earth, and their original inhabitants in six ordinary terrestrial days, establishing coherent, operational, functionally mature systems.
-2. **Pre-fall.** The completed creation, pronounced good, with mankind in communion with God.
-3. **Post-fall.** The Fall introduces death into the human line; history proceeds under the curse and under providence.
-4. **Global flood.** A global hydrological catastrophe judges the post-fall world and resets its human and animal populations.
-5. **Post-flood.** Dispersion and diversification follow, down to the present.
+Each epoch also sets an interpretive boundary: the feature of the epoch that governs how its evidence is read.
+
+1. **Special creation.** God creates the heavens, the earth, and their original inhabitants in six ordinary terrestrial days, establishing coherent, operational, functionally mature systems. Its interpretive boundary is the good initial created order itself.
+2. **Pre-fall.** The completed creation, pronounced good, with mankind in communion with God. Its interpretive boundary is the maturation of that created order during the pre-fall period: the order unfolding as made, before any corruption.
+3. **Post-fall.** The Fall introduces death into the human line; history proceeds under the curse and under providence. Its interpretive boundary is the global corruption of the created order at the Fall.
+4. **Global flood.** A global hydrological catastrophe judges the post-fall world and resets its human and animal populations. Its interpretive boundary is the impact of the worldwide flood on that corrupted order.
+5. **Post-flood.** Dispersion and diversification follow, down to the present. Its interpretive boundary is ordinary processes and special interventions afterwards: providential regularity as the norm, singular divine action not excluded.
 
 Both kinds of mechanism operate within this model. Special mechanisms are concentrated where Scripture places singular divine action, above all in special creation; natural processes are the ordinary means of God's governance within and across every epoch. Neither kind is read out of the model: a reconstruction that assigns all history to natural processes alone, or that invokes special action where the text gives ordinary processes, has departed from the model either way.
 
