@@ -5,6 +5,6 @@ status: in-execution
 disposition: open
 owner: JD Longmire (ratifier); Thinx-Muse (execution)
 depends_on: WP-CD-0002 (enumerated tree; the site takes 08-site)
-external_dependency: DNS CNAME designism.thinxai.net to jdlongmire.github.io in the thinxai.net zone, if not already present (JD)
+external_dependency: satisfied 2026-11-23 (DNS CNAME added via the workstation Cloudflare session under JD's auth-driving authorization)
 acceptance: site serving over HTTPS at designism.thinxai.net, four pages present, strict build green
-progress: 2026-11-23 site built, deployed, Pages enabled, custom domain set on GitHub; awaiting DNS CNAME designism.thinxai.net to jdlongmire.github.io
+progress: 2026-11-23 site built, deployed, Pages enabled, custom domain set, DNS CNAME added and verified live, site serving over HTTP at designism.thinxai.net; GitHub HTTPS certificate provisioning at last check

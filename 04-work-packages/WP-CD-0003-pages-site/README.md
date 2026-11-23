@@ -1,6 +1,6 @@
 # WP-CD-0003: GitHub Pages site for the governing repository, at designism.thinxai.net
 
-**Status:** Executed on GitHub's side, 2026-11-23; open on one external item, the DNS record for designism.thinxai.net. Directed by JD Longmire in the BWM alignment session: stand up a Pages site for this repository on the biblical-worldmodel pattern, with the custom domain designism.thinxai.net included in this package's scope on his instruction.
+**Status:** Executed 2026-11-23, including the DNS record. Open pending GitHub's HTTPS certificate issuance for the domain and JD's acceptance. Directed by JD Longmire in the BWM alignment session: stand up a Pages site for this repository on the biblical-worldmodel pattern, with the custom domain designism.thinxai.net included in this package's scope on his instruction.
 
 ## Purpose
 
@@ -31,4 +31,4 @@ Human-Curated, AI-Enabled (HCAE)
 
 Site source, workflow, and README pointer filed and merged in PR #15 (merge 131cf5ac). The pull-request build passed the strict MkDocs gate; on merge, the workflow's build and deploy jobs both succeeded. Pages is enabled with the workflow build type, and the custom domain designism.thinxai.net is set on the Pages site. The site was fetched live at its github.io address and the landing page verified before the domain was set.
 
-Outstanding: the DNS record. With the custom domain set, GitHub serves the site at designism.thinxai.net, and that name does not yet resolve publicly. The record needed in the thinxai.net zone, mirroring worldmodel's arrangement, is a CNAME from designism to jdlongmire.github.io. When it lands, GitHub provisions the HTTPS certificate and this package's acceptance is met, subject to JD's confirmation.
+Completion, later the same day: the DNS record was added in the thinxai.net zone (CNAME designism to jdlongmire.github.io, DNS only, TTL Auto), executed through the Cloudflare dashboard under JD's 2026-11-23 authorization for Thinx-Muse to drive credential and authentication workflows itself, using the workstation browser session. Verified independently in the chartering session: the CNAME answer is live in public DNS, and the site serves at http://designism.thinxai.net with HTTP 200. GitHub's HTTPS certificate for the domain was still provisioning at the last check (the Pages record shows no certificate yet); issuance is automatic on GitHub's side. The operations record is carried in jdlongmire/thinx-ecosystem-itops, services/domains-and-dns.
