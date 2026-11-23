@@ -63,7 +63,7 @@ These are the stated commitments of Christian Designism, not claims that each hi
 
 ## Relation to the hard core
 
-This statement is exposition, not a second hard core. Its sections restate numbered commitments in [02-programme/hard-core.md](02-programme/hard-core.md) as follows:
+This statement is exposition, not a second hard core. Its sections restate numbered commitments in [02-programme/hard-core.md](../02-programme/hard-core.md) as follows:
 
 - **The history model** states HC-6 to HC-11 as one sequence: special creation (HC-6, HC-7), pre-fall (HC-8), post-fall (HC-9), global flood (HC-10), and post-flood (HC-11).
 - **Revelational priority** restates HC-5 (Scripture as authoritative regarding history), with HC-4 behind it.
