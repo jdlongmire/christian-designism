@@ -18,6 +18,8 @@ Governing principles: **[`01-charter/christian-designism-principles.md`](01-char
 
 Repository index: **[`03-registry/REPOSITORIES.md`](03-registry/REPOSITORIES.md)**, every repository carrying programme work, by tier, with roles and status.
 
+Website: **[designism.thinxai.net](https://designism.thinxai.net/)**, the programme's public front door (source in [`08-site/`](08-site/mkdocs.yml)).
+
 Work packages: **[`04-work-packages/`](04-work-packages/README.md)**, the register of governed work in this repository.
 
 ## Repository layout (renumbered 2026-11-23)
