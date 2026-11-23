@@ -18,6 +18,8 @@ Governing principles: **[`charter/christian-designism-principles.md`](charter/ch
 
 Repository index: **[`registry/REPOSITORIES.md`](registry/REPOSITORIES.md)**, every repository carrying programme work, by tier, with roles and status.
 
+Work packages: **[`04-work-packages/`](04-work-packages/README.md)**, the register of governed work in this repository.
+
 ---
 
 ## Why this repository exists as an institution rather than a paper
@@ -65,8 +67,8 @@ Pointers, with status. Substantive content lives upstream.
 |---|---|---|
 | [Geology](lines/geology.md) | [`global-flood-hydrotectonic-model`](https://github.com/jdlongmire/global-flood-hydrotectonic-model) | Hydraulic collapse adopted; blocked on upstream falsifier list |
 | [Geochronology](lines/geochronology.md) | this repository | Most developed and most exposed; rests on F-002 |
-| [Astronomy / cosmology](lines/astronomy.md) | none | Pre-registration not located; light travel time recorded as an open difficulty |
-| [Genetics](lines/genetics.md) | none | Mutational load cited without adjudicating its critics; ERV sub-line has one registered prediction (P-006) and an open HC-8 tension (I-0009) |
+| [Astronomy / cosmology](lines/astronomy.md) | [`creation-cosmology-programmes`](https://github.com/jdlongmire/creation-cosmology-programmes) | Pre-registration not located (I-0003, tracked deliverable under WP-CD-0001); light travel time recorded as an open difficulty |
+| [Genetics](lines/genetics.md) | [`erv-design-model`](https://github.com/jdlongmire/erv-design-model) for the ERV sub-line; mutational-load strand is an external literature line | Mutational load cited without adjudicating its critics; ERV sub-line has one registered prediction (P-006) and an open HC-8 tension (I-0009) |
 | [Paleontology](lines/paleontology.md) | none | Least developed; qualitative only, generates no advance commitment |
 
 Programme homes working under this governing layer:

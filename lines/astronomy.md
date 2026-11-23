@@ -1,6 +1,6 @@
 # Line: Astronomy and Cosmology
 
-**Repository of record:** none. This is a gap.
+**Repository of record:** [`jdlongmire/creation-cosmology-programmes`](https://github.com/jdlongmire/creation-cosmology-programmes) (FCD and CAC). Header corrected under WP-CD-0001, 2026-11-23; the earlier "none" predated the pointer. The gap on this line is the unlocated pre-registration document (I-0003), not a repository.
 **Charter sections:** [§6.5](../charter/consilience-is-not-consensus.md#65-astronomy), [§7](../charter/consilience-is-not-consensus.md#7-assessing-the-programme-progressive-or-degenerating)
 **Auxiliaries:** [A-005](../registry/AUXILIARIES.md#a-005--anisotropic-synchrony-convention) under review
 **Predictions:** [P-003](../registry/PREDICTIONS.md#p-003--persistence-of-the-h0-and-s8-tensions-under-single-parameter-extensions) (`DRAFT`)

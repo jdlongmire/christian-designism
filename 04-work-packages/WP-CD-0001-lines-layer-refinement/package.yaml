@@ -1,0 +1,36 @@
+id: WP-CD-0001
+title: Lines-layer refinement
+status: active
+opened: 2026-11-23
+authority: JD Longmire, "Proceed", BWM alignment session, 2026-11-23
+scope: >
+  Stand up 04-work-packages/ in christian-designism on the biblical-worldmodel
+  pattern; correct the repositories of record for the genetics and astronomy
+  lines in the README table and the line files; add deliverable tracking
+  (deliverable, producing line, owner, target date, escalation) to I-0001 and
+  I-0003.
+
+  Does NOT produce the GFH falsifier list or the cosmology pre-registration,
+  does NOT change charter text, hard-core commitments, or register verdicts,
+  and does NOT dispose of draft PR #6 (WP-MCA-0001).
+authority_boundary: >
+  Pointer corrections and tracking entries may proceed on JD's "Proceed" of
+  2026-11-23.
+
+  It does NOT authorize producing the tracked instruments, amending the
+  charter or the hard core, or closing I-0001 or I-0003. Those remain JD's
+  and the producing lines'.
+actions:
+  - Create 04-work-packages/ register, template, and this package
+  - Correct genetics repository of record (README table, lines/genetics.md)
+  - Correct astronomy repository of record (README table, lines/astronomy.md)
+  - Add deliverable tracking sections to I-0001 and I-0003
+verification: >
+  Readback from main after merge of every edited file; package.yaml parses;
+  executing diff touches no charter, hard-core, or register-verdict file.
+deliverable_targets:
+  - issue: I-0001
+    target: 2026-12-23
+  - issue: I-0003
+    target: 2027-01-22
+disposition: open

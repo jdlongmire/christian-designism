@@ -27,3 +27,11 @@ Option 2 is not a defeat. A live registered forecast with a real resolution date
 ## Status
 
 Open. P-003 held at `DRAFT`.
+
+## Deliverable tracking (WP-CD-0001, set 2026-11-23)
+
+- **Deliverable:** this issue resolved by one of its three stated paths: the original pre-registration recovered with a verifiable timestamp and deposited here verbatim; or the prediction re-registered fresh with new falsifiers and a new resolution date, the priority claim dropped; or the citation removed from charter section 7. Paths 2 and 3 require JD's ruling, since they touch a charter claim.
+- **Producing line / repository:** Astronomy and cosmology / jdlongmire/creation-cosmology-programmes, with the deposit made in this repository.
+- **Owner:** JD Longmire (ratifier); the recovery search sits with the cosmology line.
+- **Target date:** 2027-01-22.
+- **Escalation:** if the target passes without a resolution, the miss and its blocking reason go to JD at the target date and the WP-CD-0001 register row is updated in the same pass. The target is a planning commitment, not a claim that the work is done.

@@ -1,6 +1,6 @@
 # Line: Genetics
 
-**Repository of record:** none. External literature line rather than an in-programme model.
+**Repository of record:** the mutational-load strand remains an external literature line with no in-programme model; the line's in-programme work, the ERV sub-line below, has [`jdlongmire/erv-design-model`](https://github.com/jdlongmire/erv-design-model) as its primary programme repository (JD ruling, 2026-11-18). Header corrected under WP-CD-0001, 2026-11-23; the earlier "none" predated that repository.
 **Charter section:** [§6.4](../charter/consilience-is-not-consensus.md#64-genetics)
 **Predictions:** [P-004](../registry/PREDICTIONS.md#p-004--genomic-degradation-constrains-elapsed-generational-time) (`DRAFT`); [P-006](../registry/PREDICTIONS.md#p-006--h2b-exogenization-test-e5-foamy-virus-lineage) (`REGISTERED`, resolves 2027-11-15)
 **Open issues:** [I-0009](../issues/open/I-0009-erv-model-copied-history-vs-hc8.md)
