@@ -1,6 +1,6 @@
 # WP-CD-0003: GitHub Pages site for the governing repository, at designism.thinxai.net
 
-**Status:** In execution, 2026-11-23. Directed by JD Longmire in the BWM alignment session: stand up a Pages site for this repository on the biblical-worldmodel pattern, with the custom domain designism.thinxai.net included in this package's scope on his instruction.
+**Status:** Executed on GitHub's side, 2026-11-23; open on one external item, the DNS record for designism.thinxai.net. Directed by JD Longmire in the BWM alignment session: stand up a Pages site for this repository on the biblical-worldmodel pattern, with the custom domain designism.thinxai.net included in this package's scope on his instruction.
 
 ## Purpose
 
@@ -26,3 +26,9 @@ The governing layer had no published face: its charter, hard core, and registers
 - Any change to charter, hard-core, or register content.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Execution record (2026-11-23)
+
+Site source, workflow, and README pointer filed and merged in PR #15 (merge 131cf5ac). The pull-request build passed the strict MkDocs gate; on merge, the workflow's build and deploy jobs both succeeded. Pages is enabled with the workflow build type, and the custom domain designism.thinxai.net is set on the Pages site. The site was fetched live at its github.io address and the landing page verified before the domain was set.
+
+Outstanding: the DNS record. With the custom domain set, GitHub serves the site at designism.thinxai.net, and that name does not yet resolve publicly. The record needed in the thinxai.net zone, mirroring worldmodel's arrangement, is a CNAME from designism to jdlongmire.github.io. When it lands, GitHub provisions the HTTPS certificate and this package's acceptance is met, subject to JD's confirmation.
