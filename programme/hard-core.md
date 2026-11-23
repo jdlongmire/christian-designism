@@ -24,7 +24,7 @@ Holding these immune is a methodological decision, not a claim that they are bey
 
 ## Part II – Historical commitments
 
-Each is a boundary condition on reconstruction, not a devotional theme. Each carries the exegetical basis claimed for it, on the inference standard of good and necessary consequence.
+Read together, HC-6 to HC-11 form the programme's history model: special creation, pre-fall, post-fall, global flood, and post-flood. The model is stated as a whole in [charter/christian-designism-principles.md](../charter/christian-designism-principles.md), section "The history model". Each is a boundary condition on reconstruction, not a devotional theme. Each carries the exegetical basis claimed for it, on the inference standard of good and necessary consequence.
 
 **HC-6. A creation completed and pronounced good.**
 *Basis:* Genesis 1:31, 2:1-3.

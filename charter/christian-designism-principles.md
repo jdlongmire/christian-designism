@@ -10,6 +10,20 @@
 
 Christian Designism acknowledges both special divine intervention and natural processes as means through which God creates, sustains, governs, and accomplishes His purposes in physical reality. Natural processes express the regularity of God's providential governance; special interventions express His sovereign freedom to act beyond ordinary regularities. Both remain grounded in the Logos (John 1:1–3; Colossians 1:16–17; Hebrews 1:3).
 
+## The history model
+
+Christian Designism holds to special and natural mechanisms within a single history model of five epochs:
+
+1. **Special creation.** God creates the heavens, the earth, and their original inhabitants in six ordinary terrestrial days, establishing coherent, operational, functionally mature systems.
+2. **Pre-fall.** The completed creation, pronounced good, with mankind in communion with God.
+3. **Post-fall.** The Fall introduces death into the human line; history proceeds under the curse and under providence.
+4. **Global flood.** A global hydrological catastrophe judges the post-fall world and resets its human and animal populations.
+5. **Post-flood.** Dispersion and diversification follow, down to the present.
+
+Both kinds of mechanism operate within this model. Special mechanisms are concentrated where Scripture places singular divine action, above all in special creation; natural processes are the ordinary means of God's governance within and across every epoch. Neither kind is read out of the model: a reconstruction that assigns all history to natural processes alone, or that invokes special action where the text gives ordinary processes, has departed from the model either way.
+
+The epochs are the programme's frame for locating work. Designed Functional Maturity works chiefly in the first epoch; the Flood models in the fourth; Post-Flood Diversity in the fifth; and the second and third epochs carry the programme's treatment of Adam, Eden, and the Fall.
+
 ## Revelational priority
 
 The Bible is God's specially revealed, authoritative material source of truth. The created world supplies genuine evidence through general revelation (Psalm 19:1–4; Romans 1:20). Since both originate with the truthful God, they cannot genuinely contradict one another.
@@ -49,6 +63,7 @@ These are the stated commitments of Christian Designism, not claims that each hi
 
 This statement is exposition, not a second hard core. Its sections restate numbered commitments in [programme/hard-core.md](programme/hard-core.md) as follows:
 
+- **The history model** states HC-6 to HC-11 as one sequence: special creation (HC-6, HC-7), pre-fall (HC-8), post-fall (HC-9), global flood (HC-10), and post-flood (HC-11).
 - **Revelational priority** restates HC-5 (Scripture as authoritative regarding history), with HC-4 behind it.
 - **The historical reconstruction principle**, including the fourfold distinction between Revelation, Exegesis, Observation, and Historical reconstruction, restates HC-2 (framework dependence of historical reconstruction) and HC-3 (epistemic parity of historical science).
 - **Six ordinary terrestrial days** rests on HC-6 (a creation completed and pronounced good; Genesis 1:31, 2:1-3) and states the ordinary terrestrial day frame explicitly, which the hard core carries in its Genesis basis without stating in those words. The functionally mature systems paragraph restates HC-7 (a functionally mature initial state), which auxiliary A-001 develops as a method.
