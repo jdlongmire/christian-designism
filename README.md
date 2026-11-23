@@ -16,6 +16,8 @@ Start here: **[`charter/consilience-is-not-consensus.md`](charter/consilience-is
 
 Governing principles: **[`charter/christian-designism-principles.md`](charter/christian-designism-principles.md)**, the revelational and historical principles statement of record, relocated from jdlongmire/biblical-worldmodel on 2026-11-23 (PR #71 there is the filing of origin; the copy there is now a pointer).
 
+Repository index: **[`registry/REPOSITORIES.md`](registry/REPOSITORIES.md)**, every repository carrying programme work, by tier, with roles and status.
+
 ---
 
 ## Why this repository exists as an institution rather than a paper
