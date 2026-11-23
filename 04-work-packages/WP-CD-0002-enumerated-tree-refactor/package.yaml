@@ -1,0 +1,33 @@
+id: WP-CD-0002
+title: Enumerated-tree refactor
+status: chartered
+opened: 2026-11-23
+authority: JD Longmire, BWM alignment session, 2026-11-23 (charter only; execution gated on his review of the target tree)
+scope: >
+  Refactor this repository's top level into an enumerated tree
+  (01-charter, 02-programme, 03-registry, 04-work-packages unchanged,
+  05-lines, 06-issues, 07-validation), with a pre-move link inventory,
+  internal link rewrites, companion updates in repositories holding inbound
+  links, and a scripted post-move link check as verification.
+
+  This filing is the charter only. It does NOT authorize executing the
+  refactor, and it does NOT authorize any content change to charter,
+  hard-core, register, line, or issue text beyond link paths at execution.
+authority_boundary: >
+  Creating and filing this charter proceeds on JD's direction of 2026-11-23.
+
+  It does NOT authorize moving any path. Execution begins only on JD's
+  recorded approval of the target tree, which he may renumber, rename, or
+  reject in whole or in part.
+actions:
+  - JD reviews the proposed target tree (charter README, mapping table)
+  - On approval, build the pre-move link inventory (internal and inbound)
+  - Execute the moves and internal link rewrites in one pull request
+  - File companion pull requests for repositories holding inbound links
+  - Run the post-move link check and file its output as evidence
+verification: >
+  At execution: scripted link check over this repository (every relative
+  link resolves at the new path), targeted readback of companion links, and
+  a tree listing from main showing the enumerated structure.
+disposition: open
+gate: execution requires JD approval of the target tree
