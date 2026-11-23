@@ -1,0 +1,9 @@
+id: WP-CD-0003
+title: GitHub Pages site for the governing repository, at designism.thinxai.net
+filed: 2026-11-23
+status: in-execution
+disposition: open
+owner: JD Longmire (ratifier); Thinx-Muse (execution)
+depends_on: WP-CD-0002 (enumerated tree; the site takes 08-site)
+external_dependency: DNS CNAME designism.thinxai.net to jdlongmire.github.io in the thinxai.net zone, if not already present (JD)
+acceptance: site serving over HTTPS at designism.thinxai.net, four pages present, strict build green
