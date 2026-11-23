@@ -1,6 +1,6 @@
 # WP-CD-0002: Enumerated-tree refactor
 
-**Status:** Executed 2026-11-23 on JD Longmire's approval of the target tree as proposed. Open pending JD's acceptance of the executed refactor.
+**Status:** Closed 2026-11-23. Executed on JD Longmire's approval of the target tree as proposed, and closed on his acceptance the same day.
 **Opened:** 2026-11-23, on JD Longmire's direction (BWM alignment session: "Create WP-CD-0002 as a charter, execution after I review the target tree")
 **Owner:** JD Longmire (ratifier, and approver of the target tree). Execution, once approved: Thinx-Muse.
 **Machine-readable state:** [package.yaml](package.yaml)
