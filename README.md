@@ -14,6 +14,8 @@ That argument establishes something narrow. It does not establish that this prog
 
 Start here: **[`charter/consilience-is-not-consensus.md`](charter/consilience-is-not-consensus.md)**
 
+Governing principles: **[`charter/christian-designism-principles.md`](charter/christian-designism-principles.md)**, the revelational and historical principles statement of record, relocated from jdlongmire/biblical-worldmodel on 2026-11-23 (PR #71 there is the filing of origin; the copy there is now a pointer).
+
 ---
 
 ## Why this repository exists as an institution rather than a paper
@@ -64,6 +66,11 @@ Pointers, with status. Substantive content lives upstream.
 | [Astronomy / cosmology](lines/astronomy.md) | none | Pre-registration not located; light travel time recorded as an open difficulty |
 | [Genetics](lines/genetics.md) | none | Mutational load cited without adjudicating its critics; ERV sub-line has one registered prediction (P-006) and an open HC-8 tension (I-0009) |
 | [Paleontology](lines/paleontology.md) | none | Least developed; qualitative only, generates no advance commitment |
+
+Programme homes working under this governing layer:
+
+- [Biblical World Model](https://github.com/jdlongmire/biblical-worldmodel): the BWM programme home (public site, manuscript, work packages, and the Illustrated atlas), whose core framework programme is Designed Functional Maturity.
+- [Designed Functional Maturity](https://github.com/jdlongmire/designed-functional-maturity): the core framework programme within the Biblical World Model, carrying its own charter hard core in its PROGRAMME.md.
 
 ---
 
