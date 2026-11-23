@@ -28,3 +28,11 @@ A critic who checks the upstream repository will find this in a few minutes. Bet
 ## Status
 
 Open. Interim disclosure is in place: PREDICTIONS.md, FALSIFIERS.md and lines/geology.md all record the gap explicitly, and the registry's standing assessment names it.
+
+## Deliverable tracking (WP-CD-0001, set 2026-11-23)
+
+- **Deliverable:** the GFH one-page falsifier list landed in the upstream repository, then P-002 registered in this repository with a named detachment horizon, texture class, and sampling criterion (the issue's preferred resolution path).
+- **Producing line / repository:** Geology / jdlongmire/global-flood-hydrotectonic-model.
+- **Owner:** JD Longmire (ratifier); drafting sits with the geology line.
+- **Target date:** 2026-12-23.
+- **Escalation:** if the target passes without the deliverable, the miss and its blocking reason go to JD at the target date and the WP-CD-0001 register row is updated in the same pass. The target is a planning commitment, not a claim that the work is done.
