@@ -1,6 +1,6 @@
 # WP-CD-0001: Lines-layer refinement
 
-**Status:** Active
+**Status:** Closed 2026-11-24 on JD Longmire's acceptance. Executed 2026-11-23 (PR #11): repositories of record corrected for the genetics and astronomy lines, and I-0001 and I-0003 converted to tracked deliverables with target dates, which live on in the issues register unaffected by this closure.
 **Opened:** 2026-11-23, on JD Longmire's direction ("Proceed", BWM alignment session)
 **Owner:** JD Longmire (ratifier). Execution: Thinx-Muse.
 **Machine-readable state:** [package.yaml](package.yaml)

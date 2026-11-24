@@ -4,7 +4,7 @@ This register is the repository front-door index for governed work in this repos
 
 | ID | Scope | Status / disposition | Dependency |
 |---|---|---|---|
-| [WP-CD-0001](WP-CD-0001-lines-layer-refinement/README.md) | Lines-layer refinement: repositories of record corrected, missing instruments tracked as deliverables | Active; opened 2026-11-23 on JD Longmire's direction | None |
+| [WP-CD-0001](WP-CD-0001-lines-layer-refinement/README.md) | Lines-layer refinement: repositories of record corrected, missing instruments tracked as deliverables | Closed 2026-11-24 (executed 2026-11-23; accepted by JD 2026-11-24) | None |
 | [WP-CD-0002](WP-CD-0002-enumerated-tree-refactor/README.md) | Enumerated-tree refactor of this repository's top level | Closed 2026-11-23 (executed and accepted by JD the same day) | WP-CD-0001 (register and template) |
 | [WP-CD-0003](WP-CD-0003-pages-site/README.md) | GitHub Pages site for the governing repository, at designism.thinxai.net | Executed 2026-11-23 including DNS; open pending HTTPS certificate issuance and JD's acceptance | WP-CD-0002 (enumerated tree) |
 | [WP-CD-0004](WP-CD-0004-domain-examination/README.md) | Examination: oddxian.com versus thinxai.net for the Designism estate's pages and pointers | Chartered 2026-11-23; examination only, decision gated on JD | WP-CD-0003 (the standup it re-examines) |
