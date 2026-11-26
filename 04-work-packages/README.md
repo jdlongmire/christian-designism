@@ -9,6 +9,8 @@ This register is the repository front-door index for governed work in this repos
 | [WP-CD-0003](WP-CD-0003-pages-site/README.md) | GitHub Pages site for the governing repository, at designism.thinxai.net | Executed 2026-11-23 including DNS; open pending HTTPS certificate issuance and JD's acceptance | WP-CD-0002 (enumerated tree) |
 | [WP-CD-0004](WP-CD-0004-domain-examination/README.md) | Examination: oddxian.com versus thinxai.net for the Designism estate's pages and pointers | Chartered 2026-11-23; examination only, decision gated on JD | WP-CD-0003 (the standup it re-examines) |
 
+| [WP-CD-0005](WP-CD-0005-triadic-grounding/README.md) | Triadic Grounding Argument: comparative metaphysical grounding | Proposed 2026-11-26; initial specification drafted | HC-4; TRT baseline verification |
+
 New packages take the next WP-CD number, use [TEMPLATE/package.yaml](TEMPLATE/package.yaml), and are added to this table in the same change that creates them.
 
 Human-Curated, AI-Enabled (HCAE)
