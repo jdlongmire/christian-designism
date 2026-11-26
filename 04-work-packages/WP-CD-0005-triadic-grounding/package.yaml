@@ -1,0 +1,20 @@
+id: WP-CD-0005
+title: Triadic Grounding Argument
+status: proposed
+commitment: committed
+scope: >
+  Develop a comparative metaphysical argument for the Logos under HC-4.
+  Excludes changes to hard core, TRT formal definitions, empirical prediction
+  registers, and claims of demonstrated originality or proof.
+authority_boundary: >
+  Draft, research, and review in a branch and PR. Owner acceptance required
+  for merge, publication, or changes to programme commitments.
+actions:
+  - Establish argument and proof obligation register
+  - Verify primary literature and competing accounts
+  - Conduct independent adversarial review
+  - Draft and validate standalone manuscript
+verification: >
+  Trace premises to sources or explicit assumptions; record countermodels,
+  unresolved obligations, independent review dispositions and owner acceptance.
+disposition: open
